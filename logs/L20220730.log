@@ -1,0 +1,981 @@
+L 07/30/2022 - 18:13:42: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 18:13:42: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:13:42: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:13:42: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:13:42: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:13:42: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:13:42: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:13:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:15:31: -------- Mapchange to c8m1_apartment --------
+L 07/30/2022 - 18:15:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:15:57: [l4d2_shop.smx] [INSERT]: "juniormeza.sjb<5><STEAM_1:0:604568584><>" is a new user!!
+L 07/30/2022 - 18:15:59: [l4d2_shop.smx] [INSERT]: "Omarcito123M<4><STEAM_1:0:80774869><>" is a new user!!
+L 07/30/2022 - 18:17:21: [l4d2_shop.smx] [UPDATE]: "juniormeza.sjb<5><STEAM_1:0:604568584><>" saved. Points: "1"
+L 07/30/2022 - 18:17:21: [l4d2_shop.smx] [UPDATE]: "Omarcito123M<4><STEAM_1:0:80774869><>" saved. Points: "3"
+L 07/30/2022 - 18:17:21: [l4d2_shop.smx] [UPDATE]: "Omarcito123M<4><STEAM_1:0:80774869><>" saved. Points: "3"
+L 07/30/2022 - 18:17:21: [l4d2_shop.smx] [UPDATE]: "juniormeza.sjb<5><STEAM_1:0:604568584><>" saved. Points: "1"
+L 07/30/2022 - 18:17:38: -------- Mapchange to c8m1_apartment --------
+L 07/30/2022 - 18:17:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:17:54: [l4d2_shop.smx] [LOAD]: "Omarcito123M<14><STEAM_1:0:80774869><>" loaded the record successfully! Points: "3"
+L 07/30/2022 - 18:17:57: [l4d2_shop.smx] [LOAD]: "juniormeza.sjb<13><STEAM_1:0:604568584><>" loaded the record successfully! Points: "1"
+L 07/30/2022 - 18:19:43: [l4d2_shop.smx] [UPDATE]: "juniormeza.sjb<13><STEAM_1:0:604568584><>" saved. Points: "4"
+L 07/30/2022 - 18:19:43: [l4d2_shop.smx] [UPDATE]: "Omarcito123M<14><STEAM_1:0:80774869><>" saved. Points: "3"
+L 07/30/2022 - 18:21:06: [l4d2_shop.smx] [UPDATE]: "juniormeza.sjb<13><STEAM_1:0:604568584><>" saved. Points: "5"
+L 07/30/2022 - 18:21:06: [l4d2_shop.smx] [UPDATE]: "Omarcito123M<14><STEAM_1:0:80774869><>" saved. Points: "3"
+L 07/30/2022 - 18:21:16: [l4d2_shop.smx] [UPDATE]: "Omarcito123M<14><STEAM_1:0:80774869><>" saved. Points: "3"
+L 07/30/2022 - 18:21:23: [l4d2_shop.smx] [UPDATE]: "juniormeza.sjb<13><STEAM_1:0:604568584><>" saved. Points: "5"
+L 07/30/2022 - 18:21:53: -------- Mapchange to c14m1_junkyard --------
+L 07/30/2022 - 18:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:22:23: [l4d2_shop.smx] [INSERT]: "ramdom<34><STEAM_1:1:558610259><>" is a new user!!
+L 07/30/2022 - 18:22:24: [l4d2_shop.smx] [INSERT]: "patitolord<38><STEAM_1:1:571702007><>" is a new user!!
+L 07/30/2022 - 18:22:27: [l4d2_shop.smx] [INSERT]: "TheKiller<37><STEAM_1:0:484617865><>" is a new user!!
+L 07/30/2022 - 18:22:42: [l4d2_shop.smx] [INSERT]: "HOLASOYYO<32><STEAM_1:1:589625629><>" is a new user!!
+L 07/30/2022 - 18:23:13: [l4d2_shop.smx] [UPDATE]: "patitolord<38><STEAM_1:1:571702007><>" saved. Points: "0"
+L 07/30/2022 - 18:24:49: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 18:24:49: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:24:49: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:24:49: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:24:49: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:24:49: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:24:49: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:24:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:25:07: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 18:25:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:25:36: [l4d2_shop.smx] [INSERT]: "tu bebitA fiu fiu<5><STEAM_1:1:89962301><>" is a new user!!
+L 07/30/2022 - 18:25:36: [l4d2_shop.smx] [INSERT]: "lllll<13><STEAM_1:0:463094480><>" is a new user!!
+L 07/30/2022 - 18:25:37: [l4d2_shop.smx] [INSERT]: "jejetrol<11><STEAM_1:1:632576623><>" is a new user!!
+L 07/30/2022 - 18:25:42: [l4d2_shop.smx] [INSERT]: "ElSandro_21<9><STEAM_1:1:625747132><>" is a new user!!
+L 07/30/2022 - 18:25:42: [l4d2_shop.smx] [INSERT]: "♠️Mero´h♠<7><STEAM_1:1:625860086><>" is a new user!!
+L 07/30/2022 - 18:25:42: [l4d2_shop.smx] [INSERT]: "CristoReygiordota.com<12><STEAM_1:1:226083107><>" is a new user!!
+L 07/30/2022 - 18:25:55: [l4d2_shop.smx] [INSERT]: "MT<14><STEAM_1:0:566635931><>" is a new user!!
+L 07/30/2022 - 18:26:16: [l4d2_shop.smx] [INSERT]: "Vicho $egovi4<3><STEAM_1:0:627149924><>" is a new user!!
+L 07/30/2022 - 18:27:11: [l4d2_shop.smx] [UPDATE]: "lllll<13><STEAM_1:0:463094480><>" saved. Points: "0"
+L 07/30/2022 - 18:27:12: [l4d2_shop.smx] [UPDATE]: "MT<14><STEAM_1:0:566635931><>" saved. Points: "0"
+L 07/30/2022 - 18:27:12: [l4d2_shop.smx] [UPDATE]: "♠️Mero´h♠<7><STEAM_1:1:625860086><>" saved. Points: "0"
+L 07/30/2022 - 18:27:12: [l4d2_shop.smx] [UPDATE]: "ElSandro_21<9><STEAM_1:1:625747132><>" saved. Points: "0"
+L 07/30/2022 - 18:27:12: [l4d2_shop.smx] [UPDATE]: "Vicho $egovi4<3><STEAM_1:0:627149924><>" saved. Points: "0"
+L 07/30/2022 - 18:27:13: [l4d2_shop.smx] [UPDATE]: "...<11><STEAM_1:1:632576623><>" saved. Points: "0"
+L 07/30/2022 - 18:27:13: [l4d2_shop.smx] [UPDATE]: "CristoReygiordota.com<12><STEAM_1:1:226083107><>" saved. Points: "0"
+L 07/30/2022 - 18:27:13: [l4d2_shop.smx] [UPDATE]: "tu bebitA fiu fiu<5><STEAM_1:1:89962301><>" saved. Points: "0"
+L 07/30/2022 - 18:37:36: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 18:37:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:38:09: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 18:38:09: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:38:09: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:38:09: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:38:09: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 18:38:09: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:38:09: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 18:38:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:38:37: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 18:38:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:39:09: [l4d2_shop.smx] [INSERT]: "tictac<8><STEAM_1:0:630300361><>" is a new user!!
+L 07/30/2022 - 18:39:09: [l4d2_shop.smx] [INSERT]: "andxy1234<3><STEAM_1:1:640443778><>" is a new user!!
+L 07/30/2022 - 18:39:10: [l4d2_shop.smx] [INSERT]: ":)<9><STEAM_1:1:79410861><>" is a new user!!
+L 07/30/2022 - 18:39:11: [l4d2_shop.smx] [INSERT]: "NightmareKing<6><STEAM_1:1:571320778><>" is a new user!!
+L 07/30/2022 - 18:39:18: [l4d2_shop.smx] [INSERT]: "Knny611<14><STEAM_1:1:508521967><>" is a new user!!
+L 07/30/2022 - 18:39:25: [l4d2_shop.smx] [INSERT]: ""CG"<11><STEAM_1:1:108518966><>" is a new user!!
+L 07/30/2022 - 18:39:27: [l4d2_shop.smx] [INSERT]: "스카우트<15><STEAM_1:0:641032696><>" is a new user!!
+L 07/30/2022 - 18:39:33: [l4d2_shop.smx] [INSERT]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" is a new user!!
+L 07/30/2022 - 18:41:21: [l4d2_shop.smx] [UPDATE]: "스카우트<15><STEAM_1:0:641032696><>" saved. Points: "0"
+L 07/30/2022 - 18:41:50: [l4d2_shop.smx] [UPDATE]: ""CG"<11><STEAM_1:1:108518966><>" saved. Points: "0"
+L 07/30/2022 - 18:42:45: [l4d2_shop.smx] [UPDATE]: "NightmareKing<6><STEAM_1:1:571320778><>" saved. Points: "0"
+L 07/30/2022 - 18:42:53: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "1"
+L 07/30/2022 - 18:42:53: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "7"
+L 07/30/2022 - 18:42:53: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "12"
+L 07/30/2022 - 18:42:53: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "2"
+L 07/30/2022 - 18:42:54: [l4d2_shop.smx] [UPDATE]: "Knny611<14><STEAM_1:1:508521967><>" saved. Points: "3"
+L 07/30/2022 - 18:43:10: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "1"
+L 07/30/2022 - 18:43:10: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "7"
+L 07/30/2022 - 18:43:10: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "12"
+L 07/30/2022 - 18:43:10: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "2"
+L 07/30/2022 - 18:43:10: [l4d2_shop.smx] [UPDATE]: "Knny611<14><STEAM_1:1:508521967><>" saved. Points: "3"
+L 07/30/2022 - 18:43:15: [l4d2_shop.smx] [INSERT]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" is a new user!!
+L 07/30/2022 - 18:43:16: [l4d2_shop.smx] [INSERT]: "Harkashi<24><STEAM_1:0:552963350><>" is a new user!!
+L 07/30/2022 - 18:47:27: [l4d2_shop.smx] ":)<9><STEAM_1:1:79410861><>" (Balacne: "8") tansferred "2"+"1" points to ":)<9><STEAM_1:1:79410861><>" (Balacne: "8")
+L 07/30/2022 - 18:47:45: [l4d2_shop.smx] [INSERT]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" is a new user!!
+L 07/30/2022 - 18:47:49: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "22"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "8"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "4"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "14"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "0"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "21"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "Knny611<14><STEAM_1:1:508521967><>" saved. Points: "10"
+L 07/30/2022 - 18:47:50: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "1"
+L 07/30/2022 - 18:48:00: [l4d2_shop.smx] [UPDATE]: "Knny611<14><STEAM_1:1:508521967><>" saved. Points: "10"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "22"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "8"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "6"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "14"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "0"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "21"
+L 07/30/2022 - 18:48:06: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "1"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "22"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "8"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "6"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "14"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "0"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "21"
+L 07/30/2022 - 18:48:10: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "1"
+L 07/30/2022 - 18:48:13: -------- Mapchange to c2m2_fairgrounds --------
+L 07/30/2022 - 18:48:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:48:35: [l4d2_shop.smx] [LOAD]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" loaded the record successfully! Points: "1"
+L 07/30/2022 - 18:48:36: [l4d2_shop.smx] [LOAD]: "andxy1234<3><STEAM_1:1:640443778><>" loaded the record successfully! Points: "22"
+L 07/30/2022 - 18:48:37: [l4d2_shop.smx] [LOAD]: "tictac<8><STEAM_1:0:630300361><>" loaded the record successfully! Points: "14"
+L 07/30/2022 - 18:48:40: [l4d2_shop.smx] [LOAD]: ":)<9><STEAM_1:1:79410861><>" loaded the record successfully! Points: "8"
+L 07/30/2022 - 18:48:41: [l4d2_shop.smx] [LOAD]: "Harkashi<24><STEAM_1:0:552963350><>" loaded the record successfully! Points: "6"
+L 07/30/2022 - 18:48:44: [l4d2_shop.smx] [LOAD]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 18:48:56: [l4d2_shop.smx] [INSERT]: "elninja2495<32><STEAM_1:1:626973825><>" is a new user!!
+L 07/30/2022 - 18:49:04: [l4d2_shop.smx] [LOAD]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" loaded the record successfully! Points: "21"
+L 07/30/2022 - 18:50:11: [l4d2_shop.smx] [UPDATE]: "elninja2495<32><STEAM_1:1:626973825><>" saved. Points: "0"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "24"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "43"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "9"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "26"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "0"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "21"
+L 07/30/2022 - 18:51:50: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "5"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "24"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "43"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "9"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "28"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "0"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "21"
+L 07/30/2022 - 18:52:06: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "5"
+L 07/30/2022 - 18:52:24: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Hunter" (price: "5"), remaining points: "16"
+L 07/30/2022 - 18:52:38: [l4d2_shop.smx] [INSERT]: "JeanLee 진리<37><STEAM_1:1:650537582><>" is a new user!!
+L 07/30/2022 - 18:53:28: [l4d2_shop.smx] [UPDATE]: "andxy1234<3><STEAM_1:1:640443778><>" saved. Points: "37"
+L 07/30/2022 - 18:55:20: [l4d2_shop.smx] [INSERT]: "nahemias179<38><STEAM_1:0:612606358><>" is a new user!!
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "0"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "45"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "30"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "28"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "6"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "22"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "JeanLee 진리<37><STEAM_1:1:650537582><>" saved. Points: "11"
+L 07/30/2022 - 18:55:54: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "5"
+L 07/30/2022 - 18:56:09: [l4d2_shop.smx] [UPDATE]: "Harkashi<24><STEAM_1:0:552963350><>" saved. Points: "30"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "0"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "45"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "28"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "6"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "22"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "JeanLee 진리<37><STEAM_1:1:650537582><>" saved. Points: "11"
+L 07/30/2022 - 18:56:10: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "5"
+L 07/30/2022 - 18:56:14: [l4d2_shop.smx] [UPDATE]: "JeanLee 진리<37><STEAM_1:1:650537582><>" saved. Points: "11"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "0"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "45"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "28"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "6"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "22"
+L 07/30/2022 - 18:56:15: [l4d2_shop.smx] [UPDATE]: "ĆŔỉṩҬỉƝạ ÜшÜ<25><STEAM_1:1:562753199><>" saved. Points: "5"
+L 07/30/2022 - 18:56:17: -------- Mapchange to c2m3_coaster --------
+L 07/30/2022 - 18:56:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 18:56:39: [l4d2_shop.smx] [LOAD]: "tictac<8><STEAM_1:0:630300361><>" loaded the record successfully! Points: "28"
+L 07/30/2022 - 18:56:42: [l4d2_shop.smx] [LOAD]: "nahemias179<38><STEAM_1:0:612606358><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 18:56:46: [l4d2_shop.smx] [LOAD]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" loaded the record successfully! Points: "6"
+L 07/30/2022 - 18:56:50: [l4d2_shop.smx] [LOAD]: ":)<9><STEAM_1:1:79410861><>" loaded the record successfully! Points: "45"
+L 07/30/2022 - 18:57:17: [l4d2_shop.smx] [LOAD]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" loaded the record successfully! Points: "22"
+L 07/30/2022 - 18:58:09: [l4d2_shop.smx] [UPDATE]: ":)<9><STEAM_1:1:79410861><>" saved. Points: "49"
+L 07/30/2022 - 18:58:41: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "1"
+L 07/30/2022 - 18:58:42: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "32"
+L 07/30/2022 - 18:58:42: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "20"
+L 07/30/2022 - 18:58:42: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "22"
+L 07/30/2022 - 18:58:57: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "3"
+L 07/30/2022 - 18:58:57: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "32"
+L 07/30/2022 - 18:58:57: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "20"
+L 07/30/2022 - 18:58:57: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "22"
+L 07/30/2022 - 18:59:10: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Hunter" (price: "5"), remaining points: "17"
+L 07/30/2022 - 18:59:20: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Hunter" (price: "5"), remaining points: "12"
+L 07/30/2022 - 18:59:34: [l4d2_shop.smx] [INSERT]: "smith<50><STEAM_1:0:628916156><>" is a new user!!
+L 07/30/2022 - 19:00:02: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Smoker" (price: "7"), remaining points: "9"
+L 07/30/2022 - 19:00:41: [l4d2_shop.smx] [INSERT]: "Ghost<52><STEAM_1:1:590160406><>" is a new user!!
+L 07/30/2022 - 19:00:46: [l4d2_shop.smx] [UPDATE]: "Ghost<52><STEAM_1:1:590160406><>" saved. Points: "0"
+L 07/30/2022 - 19:00:51: [l4d2_shop.smx] [INSERT]: ":)<53><STEAM_1:1:684296858><>" is a new user!!
+L 07/30/2022 - 19:00:59: [l4d2_shop.smx] [INSERT]: "DukiJai43<51><STEAM_1:0:562231846><>" is a new user!!
+L 07/30/2022 - 19:01:08: [l4d2_shop.smx] [UPDATE]: ":)<53><STEAM_1:1:684296858><>" saved. Points: "0"
+L 07/30/2022 - 19:01:12: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Smoker" (price: "7"), remaining points: "5"
+L 07/30/2022 - 19:01:33: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "13"
+L 07/30/2022 - 19:01:33: [l4d2_shop.smx] [UPDATE]: "smith<50><STEAM_1:0:628916156><>" saved. Points: "14"
+L 07/30/2022 - 19:01:33: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "33"
+L 07/30/2022 - 19:01:33: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "24"
+L 07/30/2022 - 19:01:34: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "5"
+L 07/30/2022 - 19:01:34: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "0"
+L 07/30/2022 - 19:01:39: [l4d2_shop.smx] [INSERT]: "Sergio99<56><STEAM_1:0:612294208><>" is a new user!!
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "13"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "Sergio99<56><STEAM_1:0:612294208><>" saved. Points: "0"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "smith<50><STEAM_1:0:628916156><>" saved. Points: "18"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "33"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "24"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "5"
+L 07/30/2022 - 19:01:49: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "0"
+L 07/30/2022 - 19:01:51: [l4d2_shop.smx] [UPDATE]: "smith<50><STEAM_1:0:628916156><>" saved. Points: "18"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "13"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "Sergio99<56><STEAM_1:0:612294208><>" saved. Points: "0"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "33"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "24"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "5"
+L 07/30/2022 - 19:01:54: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "0"
+L 07/30/2022 - 19:01:57: -------- Mapchange to c2m4_barns --------
+L 07/30/2022 - 19:02:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:02:28: [l4d2_shop.smx] [LOAD]: "tictac<8><STEAM_1:0:630300361><>" loaded the record successfully! Points: "33"
+L 07/30/2022 - 19:02:31: [l4d2_shop.smx] [LOAD]: "nahemias179<38><STEAM_1:0:612606358><>" loaded the record successfully! Points: "13"
+L 07/30/2022 - 19:02:31: [l4d2_shop.smx] [LOAD]: "Sergio99<56><STEAM_1:0:612294208><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 19:02:36: [l4d2_shop.smx] [LOAD]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" loaded the record successfully! Points: "24"
+L 07/30/2022 - 19:03:00: [l4d2_shop.smx] [LOAD]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" loaded the record successfully! Points: "5"
+L 07/30/2022 - 19:03:05: [l4d2_shop.smx] [LOAD]: "DukiJai43<51><STEAM_1:0:562231846><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 19:04:14: [l4d2_shop.smx] [UPDATE]: "Sergio99<56><STEAM_1:0:612294208><>" saved. Points: "9"
+L 07/30/2022 - 19:04:34: [l4d2_shop.smx] [UPDATE]: "nahemias179<38><STEAM_1:0:612606358><>" saved. Points: "15"
+L 07/30/2022 - 19:04:42: [l4d2_shop.smx] [INSERT]: "halltree19<64><STEAM_1:0:591290832><>" is a new user!!
+L 07/30/2022 - 19:05:07: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:05:07: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "38"
+L 07/30/2022 - 19:05:07: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "6"
+L 07/30/2022 - 19:05:07: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "2"
+L 07/30/2022 - 19:05:07: [l4d2_shop.smx] [UPDATE]: "halltree19<64><STEAM_1:0:591290832><>" saved. Points: "0"
+L 07/30/2022 - 19:05:22: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:05:22: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "38"
+L 07/30/2022 - 19:05:22: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "6"
+L 07/30/2022 - 19:05:22: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "2"
+L 07/30/2022 - 19:05:22: [l4d2_shop.smx] [UPDATE]: "halltree19<64><STEAM_1:0:591290832><>" saved. Points: "0"
+L 07/30/2022 - 19:05:30: [l4d2_shop.smx] [INSERT]: "Golemcito<66><STEAM_1:0:655023977><>" is a new user!!
+L 07/30/2022 - 19:05:32: [l4d2_shop.smx] [UPDATE]: "halltree19<64><STEAM_1:0:591290832><>" saved. Points: "0"
+L 07/30/2022 - 19:06:03: [l4d2_shop.smx] [Buy]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" bought "Hunter" (price: "5"), remaining points: "1"
+L 07/30/2022 - 19:07:00: [l4d2_shop.smx] [UPDATE]: "DukiJai43<51><STEAM_1:0:562231846><>" saved. Points: "2"
+L 07/30/2022 - 19:08:17: [l4d2_shop.smx] [UPDATE]: "Golemcito<66><STEAM_1:0:655023977><>" saved. Points: "25"
+L 07/30/2022 - 19:08:17: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:08:18: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "40"
+L 07/30/2022 - 19:08:18: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:08:27: [l4d2_shop.smx] [UPDATE]: "VIVA CASTILLO<28><STEAM_1:0:455113161><>" saved. Points: "40"
+L 07/30/2022 - 19:08:33: [l4d2_shop.smx] [UPDATE]: "Golemcito<66><STEAM_1:0:655023977><>" saved. Points: "25"
+L 07/30/2022 - 19:08:33: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:08:33: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:08:37: [l4d2_shop.smx] [UPDATE]: "Golemcito<66><STEAM_1:0:655023977><>" saved. Points: "25"
+L 07/30/2022 - 19:08:37: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:08:37: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:08:38: -------- Mapchange to c2m5_concert --------
+L 07/30/2022 - 19:08:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:08:54: [l4d2_shop.smx] [LOAD]: "tictac<8><STEAM_1:0:630300361><>" loaded the record successfully! Points: "49"
+L 07/30/2022 - 19:08:57: [l4d2_shop.smx] [LOAD]: "smith<71><STEAM_1:0:628916156><>" loaded the record successfully! Points: "18"
+L 07/30/2022 - 19:09:14: [l4d2_shop.smx] [LOAD]: "Golemcito<66><STEAM_1:0:655023977><>" loaded the record successfully! Points: "25"
+L 07/30/2022 - 19:09:22: [l4d2_shop.smx] [LOAD]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" loaded the record successfully! Points: "17"
+L 07/30/2022 - 19:09:26: [l4d2_shop.smx] [INSERT]: "Gay el que me bota<79><STEAM_1:1:566460910><>" is a new user!!
+L 07/30/2022 - 19:09:46: [l4d2_shop.smx] [UPDATE]: "tictac<8><STEAM_1:0:630300361><>" saved. Points: "49"
+L 07/30/2022 - 19:09:47: [l4d2_shop.smx] [UPDATE]: "Golemcito<66><STEAM_1:0:655023977><>" saved. Points: "25"
+L 07/30/2022 - 19:09:47: [l4d2_shop.smx] [UPDATE]: "Gay el que me bota<79><STEAM_1:1:566460910><>" saved. Points: "0"
+L 07/30/2022 - 19:09:47: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:09:47: [l4d2_shop.smx] [UPDATE]: "smith<71><STEAM_1:0:628916156><>" saved. Points: "18"
+L 07/30/2022 - 19:09:49: [l4d2_shop.smx] [UPDATE]: "Gay el que me bota<79><STEAM_1:1:566460910><>" saved. Points: "0"
+L 07/30/2022 - 19:09:52: [l4d2_shop.smx] [UPDATE]: "Golemcito<66><STEAM_1:0:655023977><>" saved. Points: "25"
+L 07/30/2022 - 19:10:02: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:10:02: [l4d2_shop.smx] [UPDATE]: "smith<71><STEAM_1:0:628916156><>" saved. Points: "18"
+L 07/30/2022 - 19:10:02: [l4d2_shop.smx] [UPDATE]: "smith<71><STEAM_1:0:628916156><>" saved. Points: "18"
+L 07/30/2022 - 19:10:02: [l4d2_shop.smx] [UPDATE]: "JesusAsillyHead<13><STEAM_1:0:696723889><>" saved. Points: "17"
+L 07/30/2022 - 19:10:03: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 19:10:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:30:18: -------- Mapchange to c1m2_streets --------
+L 07/30/2022 - 19:30:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:30:48: [l4d2_shop.smx] [INSERT]: "GHOSTKCHERO<88><STEAM_1:0:627240661><>" is a new user!!
+L 07/30/2022 - 19:31:21: [l4d2_shop.smx] [UPDATE]: "GHOSTKCHERO<88><STEAM_1:0:627240661><>" saved. Points: "0"
+L 07/30/2022 - 19:31:31: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 19:31:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:31:49: -------- Mapchange to c1m2_streets --------
+L 07/30/2022 - 19:31:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:32:20: [l4d2_shop.smx] [LOAD]: "GHOSTKCHERO<95><STEAM_1:0:627240661><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 19:37:25: [l4d2_shop.smx] [UPDATE]: "GHOSTKCHERO<95><STEAM_1:0:627240661><>" saved. Points: "0"
+L 07/30/2022 - 19:37:35: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 19:37:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:42:04: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 19:42:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:42:39: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 19:42:39: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:42:39: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 19:42:39: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:42:39: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 19:42:39: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:42:39: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:42:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:49:37: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 19:49:37: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:49:37: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 19:49:37: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:49:37: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 19:49:37: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:49:37: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 19:49:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:50:43: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 19:50:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 19:51:17: [l4d2_shop.smx] [INSERT]: "ImCrisDashYT<3><STEAM_1:1:128466386><>" is a new user!!
+L 07/30/2022 - 19:51:21: [l4d2_shop.smx] [INSERT]: "BRANDER_REDENZ<8><STEAM_1:1:647821524><>" is a new user!!
+L 07/30/2022 - 19:51:21: [l4d2_shop.smx] [INSERT]: "Twitch>Rodny664<7><STEAM_1:0:207027703><>" is a new user!!
+L 07/30/2022 - 19:51:36: [l4d2_shop.smx] [INSERT]: "Gremory<5><STEAM_1:0:579741595><>" is a new user!!
+L 07/30/2022 - 19:52:30: [l4d2_shop.smx] [UPDATE]: "Gremory<5><STEAM_1:0:579741595><>" saved. Points: "0"
+L 07/30/2022 - 19:53:03: [l4d2_shop.smx] [INSERT]: "keikoratazzzzz<14><STEAM_1:0:696576302><>" is a new user!!
+L 07/30/2022 - 19:54:47: [l4d2_shop.smx] [UPDATE]: "BRANDER_REDENZ<8><STEAM_1:1:647821524><>" saved. Points: "5"
+L 07/30/2022 - 19:55:52: [l4d2_shop.smx] [INSERT]: "RICKBILLIE<21><STEAM_1:1:630836548><>" is a new user!!
+L 07/30/2022 - 19:57:34: [l4d2_shop.smx] [UPDATE]: "keikoratazzzzz<14><STEAM_1:0:696576302><>" saved. Points: "5"
+L 07/30/2022 - 19:57:51: [l4d2_shop.smx] [UPDATE]: "ImCrisDashYT<3><STEAM_1:1:128466386><>" saved. Points: "13"
+L 07/30/2022 - 19:57:58: [l4d2_shop.smx] [UPDATE]: "Twitch>Rodny664<7><STEAM_1:0:207027703><>" saved. Points: "7"
+L 07/30/2022 - 19:58:42: [l4d2_shop.smx] [UPDATE]: "RICKBILLIE<21><STEAM_1:1:630836548><>" saved. Points: "2"
+L 07/30/2022 - 19:59:08: [l4d2_shop.smx] [INSERT]: "Cecorzin_420<28><STEAM_1:0:698618986><>" is a new user!!
+L 07/30/2022 - 19:59:19: [l4d2_shop.smx] [INSERT]: "Carlo BMX<29><STEAM_1:0:446945724><>" is a new user!!
+L 07/30/2022 - 19:59:33: [l4d2_shop.smx] [INSERT]: "CONDORIYT<30><STEAM_1:0:690905682><>" is a new user!!
+L 07/30/2022 - 20:00:15: [l4d2_shop.smx] [UPDATE]: "Cecorzin_420<28><STEAM_1:0:698618986><>" saved. Points: "0"
+L 07/30/2022 - 20:01:21: [l4d2_shop.smx] [INSERT]: "Americo<35><STEAM_1:0:149267802><>" is a new user!!
+L 07/30/2022 - 20:02:02: [l4d2_shop.smx] [UPDATE]: "Americo<35><STEAM_1:0:149267802><>" saved. Points: "0"
+L 07/30/2022 - 20:03:03: [l4d2_shop.smx] [INSERT]: ":3 PAJIN :3<40><STEAM_1:1:94291535><>" is a new user!!
+L 07/30/2022 - 20:03:26: [l4d2_shop.smx] [UPDATE]: ":3 PAJIN :3<40><STEAM_1:1:94291535><>" saved. Points: "0"
+L 07/30/2022 - 20:03:29: [l4d2_shop.smx] [UPDATE]: "Carlo BMX<29><STEAM_1:0:446945724><>" saved. Points: "5"
+L 07/30/2022 - 20:03:29: [l4d2_shop.smx] [UPDATE]: "RICKBILLIE<21><STEAM_1:1:630836548><>" saved. Points: "8"
+L 07/30/2022 - 20:03:30: [l4d2_shop.smx] [UPDATE]: "CONDORIYT<30><STEAM_1:0:690905682><>" saved. Points: "10"
+L 07/30/2022 - 20:06:27: [l4d2_shop.smx] [INSERT]: "francogarciarene<47><STEAM_1:1:656841279><>" is a new user!!
+L 07/30/2022 - 20:07:02: [l4d2_shop.smx] [UPDATE]: "Carlo BMX<29><STEAM_1:0:446945724><>" saved. Points: "9"
+L 07/30/2022 - 20:07:23: [l4d2_shop.smx] [UPDATE]: "francogarciarene<47><STEAM_1:1:656841279><>" saved. Points: "1"
+L 07/30/2022 - 20:08:05: [l4d2_shop.smx] [UPDATE]: "RICKBILLIE<21><STEAM_1:1:630836548><>" saved. Points: "15"
+L 07/30/2022 - 20:08:23: [l4d2_shop.smx] [UPDATE]: "CONDORIYT<30><STEAM_1:0:690905682><>" saved. Points: "28"
+L 07/30/2022 - 20:08:40: [l4d2_shop.smx] [UPDATE]: "CONDORIYT<30><STEAM_1:0:690905682><>" saved. Points: "28"
+L 07/30/2022 - 20:15:06: -------- Mapchange to c7m1_docks --------
+L 07/30/2022 - 20:15:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:15:58: [l4d2_shop.smx] [INSERT]: "fernandovillalva00<69><STEAM_1:1:668411595><>" is a new user!!
+L 07/30/2022 - 20:16:36: [l4d2_shop.smx] [UPDATE]: "fernandovillalva00<69><STEAM_1:1:668411595><>" saved. Points: "0"
+L 07/30/2022 - 20:18:52: -------- Mapchange to c11m1_greenhouse --------
+L 07/30/2022 - 20:19:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:19:25: [l4d2_shop.smx] [INSERT]: "momma in da box<78><STEAM_1:0:638424836><>" is a new user!!
+L 07/30/2022 - 20:19:42: [l4d2_shop.smx] [INSERT]: "lizardcrimsom<76><STEAM_1:0:574730096><>" is a new user!!
+L 07/30/2022 - 20:20:02: [l4d2_shop.smx] [INSERT]: "patrickcomeresbueno<77><STEAM_1:1:504765493><>" is a new user!!
+L 07/30/2022 - 20:20:06: [l4d2_shop.smx] [UPDATE]: "momma in da box<78><STEAM_1:0:638424836><>" saved. Points: "0"
+L 07/30/2022 - 20:20:24: [l4d2_shop.smx] [INSERT]: "El tanjiro :v<82><STEAM_1:1:618896268><>" is a new user!!
+L 07/30/2022 - 20:21:04: [l4d2_shop.smx] [INSERT]: "C U F A<84><STEAM_1:1:520183843><>" is a new user!!
+L 07/30/2022 - 20:22:16: [l4d2_shop.smx] [UPDATE]: "C U F A<84><STEAM_1:1:520183843><>" saved. Points: "2"
+L 07/30/2022 - 20:22:38: [l4d2_shop.smx] [INSERT]: "xl apn 2.0<87><STEAM_1:1:590480005><>" is a new user!!
+L 07/30/2022 - 20:25:48: [l4d2_shop.smx] [UPDATE]: "lizardcrimsom<76><STEAM_1:0:574730096><>" saved. Points: "2"
+L 07/30/2022 - 20:25:49: [l4d2_shop.smx] [UPDATE]: "patrickcomeresbueno<77><STEAM_1:1:504765493><>" saved. Points: "19"
+L 07/30/2022 - 20:25:49: [l4d2_shop.smx] [UPDATE]: "xl apn 2.0<87><STEAM_1:1:590480005><>" saved. Points: "7"
+L 07/30/2022 - 20:25:49: [l4d2_shop.smx] [UPDATE]: "El tanjiro :v<82><STEAM_1:1:618896268><>" saved. Points: "7"
+L 07/30/2022 - 20:25:52: -------- Mapchange to c11m2_offices --------
+L 07/30/2022 - 20:26:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:26:25: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 20:26:25: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:26:25: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:26:25: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:26:25: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:26:25: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:26:25: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:26:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:33:36: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 20:33:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:34:12: [l4d2_shop.smx] [INSERT]: "elreytilin69<5><STEAM_1:0:612641231><>" is a new user!!
+L 07/30/2022 - 20:34:15: [l4d2_shop.smx] [INSERT]: "alf1o<7><STEAM_1:1:536969253><>" is a new user!!
+L 07/30/2022 - 20:34:58: [l4d2_shop.smx] [INSERT]: "Felix<3><STEAM_1:1:681633596><>" is a new user!!
+L 07/30/2022 - 20:35:27: [l4d2_shop.smx] [INSERT]: "Henry<8><STEAM_1:0:636931321><>" is a new user!!
+L 07/30/2022 - 20:35:56: [l4d2_shop.smx] [UPDATE]: "alf1o<7><STEAM_1:1:536969253><>" saved. Points: "0"
+L 07/30/2022 - 20:36:43: [l4d2_shop.smx] [UPDATE]: "elreytilin69<5><STEAM_1:0:612641231><>" saved. Points: "2"
+L 07/30/2022 - 20:36:49: [l4d2_shop.smx] [UPDATE]: "Felix<3><STEAM_1:1:681633596><>" saved. Points: "2"
+L 07/30/2022 - 20:36:50: [l4d2_shop.smx] [UPDATE]: "Henry<8><STEAM_1:0:636931321><>" saved. Points: "0"
+L 07/30/2022 - 20:37:00: [l4d2_shop.smx] [UPDATE]: "Henry<8><STEAM_1:0:636931321><>" saved. Points: "0"
+L 07/30/2022 - 20:37:10: [l4d2_shop.smx] [INSERT]: "angeloriggs<17><STEAM_1:1:485218633><>" is a new user!!
+L 07/30/2022 - 20:40:01: [l4d2_shop.smx] [UPDATE]: "angeloriggs<17><STEAM_1:1:485218633><>" saved. Points: "2"
+L 07/30/2022 - 20:40:22: [l4d2_shop.smx] [INSERT]: "Santiago97<30><STEAM_1:0:418381597><>" is a new user!!
+L 07/30/2022 - 20:40:37: [l4d2_shop.smx] [INSERT]: "Zeckers<27><STEAM_1:1:434516545><>" is a new user!!
+L 07/30/2022 - 20:40:44: [l4d2_shop.smx] [INSERT]: "lorufu123<31><STEAM_1:1:658904699><>" is a new user!!
+L 07/30/2022 - 20:41:28: [l4d2_shop.smx] [INSERT]: "sr cerdito<35><STEAM_1:0:587292098><>" is a new user!!
+L 07/30/2022 - 20:44:16: [l4d2_shop.smx] [UPDATE]: "Zeckers<27><STEAM_1:1:434516545><>" saved. Points: "0"
+L 07/30/2022 - 20:44:36: [l4d2_shop.smx] [UPDATE]: "Santiago97<30><STEAM_1:0:418381597><>" saved. Points: "3"
+L 07/30/2022 - 20:44:42: [l4d2_shop.smx] [UPDATE]: "lorufu123<31><STEAM_1:1:658904699><>" saved. Points: "8"
+L 07/30/2022 - 20:44:42: [l4d2_shop.smx] [UPDATE]: "sr cerdito<35><STEAM_1:0:587292098><>" saved. Points: "0"
+L 07/30/2022 - 20:44:43: -------- Mapchange to c1m2_streets --------
+L 07/30/2022 - 20:44:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:45:36: [l4d2_shop.smx] [LOAD]: "lorufu123<31><STEAM_1:1:658904699><>" loaded the record successfully! Points: "8"
+L 07/30/2022 - 20:45:38: [l4d2_shop.smx] [INSERT]: "ZaykO_KilleR<42><STEAM_1:1:538382814><>" is a new user!!
+L 07/30/2022 - 20:45:41: [l4d2_shop.smx] [LOAD]: "sr cerdito<35><STEAM_1:0:587292098><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 20:46:03: [l4d2_shop.smx] [INSERT]: "r0ku8888<46><STEAM_1:1:609691824><>" is a new user!!
+L 07/30/2022 - 20:48:35: [l4d2_shop.smx] [UPDATE]: "r0ku8888<46><STEAM_1:1:609691824><>" saved. Points: "5"
+L 07/30/2022 - 20:49:25: [l4d2_shop.smx] [INSERT]: "Misterio<53><STEAM_1:0:538103329><>" is a new user!!
+L 07/30/2022 - 20:53:07: [l4d2_shop.smx] [UPDATE]: "sr cerdito<35><STEAM_1:0:587292098><>" saved. Points: "7"
+L 07/30/2022 - 20:54:45: [l4d2_shop.smx] [UPDATE]: "ZaykO_KilleR<42><STEAM_1:1:538382814><>" saved. Points: "24"
+L 07/30/2022 - 20:54:45: [l4d2_shop.smx] [UPDATE]: "lorufu123<31><STEAM_1:1:658904699><>" saved. Points: "27"
+L 07/30/2022 - 20:54:46: [l4d2_shop.smx] [UPDATE]: "Misterio<53><STEAM_1:0:538103329><>" saved. Points: "1"
+L 07/30/2022 - 20:54:49: -------- Mapchange to c1m3_mall --------
+L 07/30/2022 - 20:55:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:55:22: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 20:55:22: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:55:22: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:55:22: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:55:22: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:55:22: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:55:22: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:55:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:56:12: -------- Mapchange to c4m1_milltown_a --------
+L 07/30/2022 - 20:56:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 20:56:52: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 20:56:52: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:56:52: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:56:52: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:56:52: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 20:56:52: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:56:52: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 20:57:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:03:09: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 21:03:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:03:43: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 21:03:43: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:03:43: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 21:03:43: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:03:43: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 21:03:43: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:03:43: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:03:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:13:09: -------- Mapchange to c5m1_waterfront --------
+L 07/30/2022 - 21:13:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:13:46: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 21:13:46: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:13:46: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 21:13:46: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:13:46: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 21:13:46: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:13:46: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 21:14:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:14:30: -------- Mapchange to c8m1_apartment --------
+L 07/30/2022 - 21:14:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:15:10: [l4d2_shop.smx] [INSERT]: "CHEVRE MANO "BACAN TU ARGUMENTO<7><STEAM_1:0:231570568><>" is a new user!!
+L 07/30/2022 - 21:15:13: [l4d2_shop.smx] [INSERT]: "tunometecabrasaramambiche<4><STEAM_1:0:569468837><>" is a new user!!
+L 07/30/2022 - 21:15:22: [l4d2_shop.smx] [INSERT]: "NLMPHTPCGMER<8><STEAM_1:1:564460225><>" is a new user!!
+L 07/30/2022 - 21:18:02: [l4d2_shop.smx] [UPDATE]: "tunometecabrasaramambiche<4><STEAM_1:0:569468837><>" saved. Points: "0"
+L 07/30/2022 - 21:18:02: [l4d2_shop.smx] [UPDATE]: "CHEVRE MANO "BACAN TU ARGUMENTO<7><STEAM_1:0:231570568><>" saved. Points: "5"
+L 07/30/2022 - 21:18:02: [l4d2_shop.smx] [UPDATE]: "NLMPHTPCGMER<8><STEAM_1:1:564460225><>" saved. Points: "3"
+L 07/30/2022 - 21:18:09: [l4d2_shop.smx] [INSERT]: "Guapo1029<20><STEAM_1:1:617565975><>" is a new user!!
+L 07/30/2022 - 21:19:08: [l4d2_shop.smx] [UPDATE]: "NLMPHTPCGMER<8><STEAM_1:1:564460225><>" saved. Points: "4"
+L 07/30/2022 - 21:19:35: [l4d2_shop.smx] [UPDATE]: "Guapo1029<20><STEAM_1:1:617565975><>" saved. Points: "0"
+L 07/30/2022 - 21:21:21: [l4d2_shop.smx] [UPDATE]: "tunometecabrasaramambiche<4><STEAM_1:0:569468837><>" saved. Points: "0"
+L 07/30/2022 - 21:21:22: [l4d2_shop.smx] [UPDATE]: "CHEVRE MANO "BACAN TU ARGUMENTO<7><STEAM_1:0:231570568><>" saved. Points: "5"
+L 07/30/2022 - 21:21:22: -------- Mapchange to c8m2_subway --------
+L 07/30/2022 - 21:21:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:21:48: [l4d2_shop.smx] [LOAD]: "tunometecabrasaramambiche<4><STEAM_1:0:569468837><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 21:21:49: [l4d2_shop.smx] [LOAD]: "CHEVRE MANO "BACAN TU ARGUMENTO<7><STEAM_1:0:231570568><>" loaded the record successfully! Points: "5"
+L 07/30/2022 - 21:24:49: [l4d2_shop.smx] [UPDATE]: "CHEVRE MANO "BACAN TU ARGUMENTO<7><STEAM_1:0:231570568><>" saved. Points: "5"
+L 07/30/2022 - 21:24:50: [l4d2_shop.smx] [UPDATE]: "tunometecabrasaramambiche<4><STEAM_1:0:569468837><>" saved. Points: "0"
+L 07/30/2022 - 21:24:51: -------- Mapchange to c8m1_apartment --------
+L 07/30/2022 - 21:24:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:25:27: -------- Mapchange to c3m1_plankcountry --------
+L 07/30/2022 - 21:25:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:26:14: [l4d2_shop.smx] [INSERT]: "Futuro Esposo de Ana <3<50><STEAM_1:0:562898179><>" is a new user!!
+L 07/30/2022 - 21:26:37: [l4d2_shop.smx] [INSERT]: "N€0ᖇㄖ丂S<51><STEAM_1:1:630549501><>" is a new user!!
+L 07/30/2022 - 21:26:55: [l4d2_shop.smx] [INSERT]: "B I G L I G H T<52><STEAM_1:0:709649278><>" is a new user!!
+L 07/30/2022 - 21:26:58: [l4d2_shop.smx] [INSERT]: "gian<56><STEAM_1:0:214550496><>" is a new user!!
+L 07/30/2022 - 21:28:59: [l4d2_shop.smx] [UPDATE]: "Futuro Esposo de Ana <3<50><STEAM_1:0:562898179><>" saved. Points: "4"
+L 07/30/2022 - 21:28:59: [l4d2_shop.smx] [UPDATE]: "N€0ᖇㄖ丂S<51><STEAM_1:1:630549501><>" saved. Points: "0"
+L 07/30/2022 - 21:28:59: [l4d2_shop.smx] [UPDATE]: "B I G L I G H T<52><STEAM_1:0:709649278><>" saved. Points: "0"
+L 07/30/2022 - 21:28:59: [l4d2_shop.smx] [UPDATE]: "gian<56><STEAM_1:0:214550496><>" saved. Points: "0"
+L 07/30/2022 - 21:29:00: [l4d2_shop.smx] [UPDATE]: "gian<56><STEAM_1:0:214550496><>" saved. Points: "0"
+L 07/30/2022 - 21:29:00: [l4d2_shop.smx] [UPDATE]: "N€0ᖇㄖ丂S<51><STEAM_1:1:630549501><>" saved. Points: "0"
+L 07/30/2022 - 21:29:00: [l4d2_shop.smx] [UPDATE]: "Futuro Esposo de Ana <3<50><STEAM_1:0:562898179><>" saved. Points: "4"
+L 07/30/2022 - 21:29:00: [l4d2_shop.smx] [UPDATE]: "B I G L I G H T<52><STEAM_1:0:709649278><>" saved. Points: "0"
+L 07/30/2022 - 21:37:19: -------- Mapchange to c4m1_milltown_a --------
+L 07/30/2022 - 21:37:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:37:40: [l4d2_shop.smx] [INSERT]: "Azathoth<75><STEAM_1:1:615162464><>" is a new user!!
+L 07/30/2022 - 21:37:46: [l4d2_shop.smx] [INSERT]: "ronald 7<77><STEAM_1:0:566943961><>" is a new user!!
+L 07/30/2022 - 21:37:48: [l4d2_shop.smx] [INSERT]: "Éclamadir<74><STEAM_1:1:163620833><>" is a new user!!
+L 07/30/2022 - 21:37:51: [l4d2_shop.smx] [INSERT]: "Alls<76><STEAM_1:0:595667727><>" is a new user!!
+L 07/30/2022 - 21:40:14: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "0"
+L 07/30/2022 - 21:40:14: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "0"
+L 07/30/2022 - 21:40:14: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:40:14: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 21:40:17: -------- Mapchange to c4m2_sugarmill_a --------
+L 07/30/2022 - 21:40:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 21:40:44: [l4d2_shop.smx] [LOAD]: "Azathoth<75><STEAM_1:1:615162464><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 21:40:52: [l4d2_shop.smx] [LOAD]: "Éclamadir<74><STEAM_1:1:163620833><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 21:40:58: [l4d2_shop.smx] [LOAD]: "ronald 7<77><STEAM_1:0:566943961><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 21:41:03: [l4d2_shop.smx] [LOAD]: "Alls<76><STEAM_1:0:595667727><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 21:44:59: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 21:44:59: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 21:44:59: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:44:59: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 21:47:33: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 21:47:33: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 21:47:33: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:47:33: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 21:50:48: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 21:50:48: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 21:50:48: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:50:48: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 21:54:06: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 21:54:06: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 21:54:06: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:54:06: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 21:57:07: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 21:57:07: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 21:57:07: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "0"
+L 07/30/2022 - 21:57:07: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 22:02:05: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 22:02:05: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 22:02:06: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "1"
+L 07/30/2022 - 22:02:06: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 22:02:20: [l4d2_shop.smx] [UPDATE]: "Alls<76><STEAM_1:0:595667727><>" saved. Points: "1"
+L 07/30/2022 - 22:04:15: [l4d2_shop.smx] [INSERT]: "Zion<148><STEAM_1:0:586661553><>" is a new user!!
+L 07/30/2022 - 22:04:21: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 22:04:21: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 22:04:21: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "0"
+L 07/30/2022 - 22:04:21: [l4d2_shop.smx] [UPDATE]: "Zion<148><STEAM_1:0:586661553><>" saved. Points: "0"
+L 07/30/2022 - 22:04:24: [l4d2_shop.smx] [UPDATE]: "Zion<148><STEAM_1:0:586661553><>" saved. Points: "0"
+L 07/30/2022 - 22:05:19: [l4d2_shop.smx] [UPDATE]: "Éclamadir<74><STEAM_1:1:163620833><>" saved. Points: "11"
+L 07/30/2022 - 22:05:31: [l4d2_shop.smx] [UPDATE]: "ronald 7<77><STEAM_1:0:566943961><>" saved. Points: "5"
+L 07/30/2022 - 22:05:32: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 22:06:08: [l4d2_shop.smx] [UPDATE]: "Azathoth<75><STEAM_1:1:615162464><>" saved. Points: "1"
+L 07/30/2022 - 22:06:09: -------- Mapchange to c4m1_milltown_a --------
+L 07/30/2022 - 22:06:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:06:53: -------- Mapchange to c12m1_hilltop --------
+L 07/30/2022 - 22:06:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:07:24: [l4d2_shop.smx] [INSERT]: "ʑєcк cнєℓσviєк⥄™<163><STEAM_1:0:520765370><>" is a new user!!
+L 07/30/2022 - 22:07:39: [l4d2_shop.smx] [INSERT]: "arman080482<165><STEAM_1:0:614108453><>" is a new user!!
+L 07/30/2022 - 22:07:45: [l4d2_shop.smx] [INSERT]: "✞  L.Lawliet ✞<166><STEAM_1:0:569939914><>" is a new user!!
+L 07/30/2022 - 22:09:46: [l4d2_shop.smx] [UPDATE]: "arman080482<165><STEAM_1:0:614108453><>" saved. Points: "0"
+L 07/30/2022 - 22:10:13: [l4d2_shop.smx] [UPDATE]: "✞  L.Lawliet ✞<166><STEAM_1:0:569939914><>" saved. Points: "2"
+L 07/30/2022 - 22:10:13: [l4d2_shop.smx] [UPDATE]: "ʑєcк cнєℓσviєк⥄™<163><STEAM_1:0:520765370><>" saved. Points: "5"
+L 07/30/2022 - 22:10:13: [l4d2_shop.smx] [UPDATE]: "ʑєcк cнєℓσviєк⥄™<163><STEAM_1:0:520765370><>" saved. Points: "5"
+L 07/30/2022 - 22:10:13: [l4d2_shop.smx] [UPDATE]: "✞  L.Lawliet ✞<166><STEAM_1:0:569939914><>" saved. Points: "2"
+L 07/30/2022 - 22:11:32: -------- Mapchange to c12m1_hilltop --------
+L 07/30/2022 - 22:11:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:15:19: -------- Mapchange to c9m1_alleys --------
+L 07/30/2022 - 22:15:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:15:39: [l4d2_shop.smx] [INSERT]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" is a new user!!
+L 07/30/2022 - 22:15:42: [l4d2_shop.smx] [INSERT]: "XxElInmortalXx<178><STEAM_1:1:506847535><>" is a new user!!
+L 07/30/2022 - 22:15:44: [l4d2_shop.smx] [INSERT]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" is a new user!!
+L 07/30/2022 - 22:20:55: [l4d2_shop.smx] [UPDATE]: "XxElInmortalXx<178><STEAM_1:1:506847535><>" saved. Points: "4"
+L 07/30/2022 - 22:21:29: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "29"
+L 07/30/2022 - 22:21:29: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "13"
+L 07/30/2022 - 22:24:25: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "29"
+L 07/30/2022 - 22:24:26: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "21"
+L 07/30/2022 - 22:27:54: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "34"
+L 07/30/2022 - 22:27:55: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "27"
+L 07/30/2022 - 22:29:37: [l4d2_shop.smx] [INSERT]: "fmayta71<228><STEAM_1:1:634681279><>" is a new user!!
+L 07/30/2022 - 22:31:20: [l4d2_shop.smx] [UPDATE]: "fmayta71<228><STEAM_1:1:634681279><>" saved. Points: "1"
+L 07/30/2022 - 22:32:35: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "46"
+L 07/30/2022 - 22:32:35: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "32"
+L 07/30/2022 - 22:34:52: [l4d2_shop.smx] [INSERT]: "BautyH0<240><STEAM_1:0:184535938><>" is a new user!!
+L 07/30/2022 - 22:35:26: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "53"
+L 07/30/2022 - 22:35:26: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "34"
+L 07/30/2022 - 22:35:26: [l4d2_shop.smx] [UPDATE]: "BautyH0<240><STEAM_1:0:184535938><>" saved. Points: "0"
+L 07/30/2022 - 22:35:28: -------- Mapchange to c9m1_alleys --------
+L 07/30/2022 - 22:35:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:35:52: [l4d2_shop.smx] [LOAD]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" loaded the record successfully! Points: "53"
+L 07/30/2022 - 22:35:55: [l4d2_shop.smx] [LOAD]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" loaded the record successfully! Points: "34"
+L 07/30/2022 - 22:36:20: [l4d2_shop.smx] [LOAD]: "BautyH0<240><STEAM_1:0:184535938><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 22:39:27: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "60"
+L 07/30/2022 - 22:39:27: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "35"
+L 07/30/2022 - 22:39:27: [l4d2_shop.smx] [UPDATE]: "BautyH0<240><STEAM_1:0:184535938><>" saved. Points: "3"
+L 07/30/2022 - 22:40:50: [l4d2_shop.smx] [UPDATE]: "BautyH0<240><STEAM_1:0:184535938><>" saved. Points: "3"
+L 07/30/2022 - 22:41:17: [l4d2_shop.smx] [UPDATE]: "мастер-мусорщик<176><STEAM_1:0:142015698><>" saved. Points: "66"
+L 07/30/2022 - 22:41:50: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "36"
+L 07/30/2022 - 22:44:08: [l4d2_shop.smx] [UPDATE]: "CaRLoS GoZzu 777<177><STEAM_1:1:625161922><>" saved. Points: "36"
+L 07/30/2022 - 22:45:46: -------- Mapchange to c1m1_hotel --------
+L 07/30/2022 - 22:45:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:46:22: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 22:46:22: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:46:22: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 22:46:22: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:46:22: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 22:46:22: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:46:22: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:46:58: -------- Mapchange to c2m1_highway --------
+L 07/30/2022 - 22:47:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:47:33: SourceMod log file session started (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/L20220730.log") (Version "1.10.0.6543")
+L 07/30/2022 - 22:47:33: [l4d_flashlight.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:47:33: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when filling gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 22:47:33: [l4d_extinguisher.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:47:33: [l4d2_pourgas.smx] 
+==========
+Warning: You should install "[L4D2] Scavenge Score Fix - Gascan Pouring" to prevent affecting the score when pouring gas in Scavenge style events: https://forums.alliedmods.net/showthread.php?t=187686
+==========
+
+L 07/30/2022 - 22:47:33: [l4d_hats.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action: https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:47:33: [l4d_flare.smx] 
+==========
+Warning: You should install "[L4D & L4D2] Use Priority Patch" to fix attached models blocking +USE action. https://forums.alliedmods.net/showthread.php?t=327511
+==========
+
+L 07/30/2022 - 22:47:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:49:07: -------- Mapchange to c8m1_apartment --------
+L 07/30/2022 - 22:49:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:49:38: [l4d2_shop.smx] [INSERT]: "j1<4><STEAM_1:0:548930012><>" is a new user!!
+L 07/30/2022 - 22:49:52: [l4d2_shop.smx] [INSERT]: "juangonzaperezriv<7><STEAM_1:0:708070313><>" is a new user!!
+L 07/30/2022 - 22:49:55: [l4d2_shop.smx] [INSERT]: "Vito<8><STEAM_1:0:525022331><>" is a new user!!
+L 07/30/2022 - 22:50:12: [l4d2_shop.smx] [UPDATE]: "Vito<8><STEAM_1:0:525022331><>" saved. Points: "0"
+L 07/30/2022 - 22:50:18: [l4d2_shop.smx] [INSERT]: "Mathy Ui<12><STEAM_1:1:689049501><>" is a new user!!
+L 07/30/2022 - 22:50:43: [l4d2_shop.smx] [UPDATE]: "Mathy Ui<12><STEAM_1:1:689049501><>" saved. Points: "0"
+L 07/30/2022 - 22:51:56: [l4d2_shop.smx] [INSERT]: "Ale<17><STEAM_1:1:596932118><>" is a new user!!
+L 07/30/2022 - 22:52:34: [l4d2_shop.smx] [UPDATE]: "Ale<17><STEAM_1:1:596932118><>" saved. Points: "0"
+L 07/30/2022 - 22:54:37: [l4d2_shop.smx] [UPDATE]: "j1<4><STEAM_1:0:548930012><>" saved. Points: "4"
+L 07/30/2022 - 22:54:40: [l4d2_shop.smx] [UPDATE]: "juangonzaperezriv<7><STEAM_1:0:708070313><>" saved. Points: "6"
+L 07/30/2022 - 22:57:04: -------- Mapchange to c3m1_plankcountry --------
+L 07/30/2022 - 22:57:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 22:57:39: [l4d2_shop.smx] [INSERT]: "loker°!°<31><STEAM_1:1:68294474><>" is a new user!!
+L 07/30/2022 - 22:57:51: [l4d2_shop.smx] [INSERT]: "RipeCamel<30><STEAM_1:0:634565420><>" is a new user!!
+L 07/30/2022 - 22:58:03: [l4d2_shop.smx] [INSERT]: "ℭ℟Åℤ¥<28><STEAM_1:1:575705145><>" is a new user!!
+L 07/30/2022 - 22:58:15: [l4d2_shop.smx] [INSERT]: "SoulLeo<26><STEAM_1:1:642316046><>" is a new user!!
+L 07/30/2022 - 23:02:07: [l4d2_shop.smx] [UPDATE]: "loker°!°<31><STEAM_1:1:68294474><>" saved. Points: "1"
+L 07/30/2022 - 23:02:32: [l4d2_shop.smx] [UPDATE]: "SoulLeo<26><STEAM_1:1:642316046><>" saved. Points: "0"
+L 07/30/2022 - 23:07:43: [l4d2_shop.smx] [UPDATE]: "ℭ℟Åℤ¥<28><STEAM_1:1:575705145><>" saved. Points: "10"
+L 07/30/2022 - 23:07:52: [l4d2_shop.smx] [UPDATE]: "RipeCamel<30><STEAM_1:0:634565420><>" saved. Points: "19"
+L 07/30/2022 - 23:07:57: [l4d2_shop.smx] [UPDATE]: "RipeCamel<30><STEAM_1:0:634565420><>" saved. Points: "19"
+L 07/30/2022 - 23:13:49: -------- Mapchange to c7m1_docks --------
+L 07/30/2022 - 23:13:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 23:14:32: [l4d2_shop.smx] [INSERT]: "Plastic Man<58><STEAM_1:0:546344902><>" is a new user!!
+L 07/30/2022 - 23:15:01: [l4d2_shop.smx] [UPDATE]: "Plastic Man<58><STEAM_1:0:546344902><>" saved. Points: "0"
+L 07/30/2022 - 23:15:12: [l4d2_shop.smx] [INSERT]: "kanna y saikawa<62><STEAM_1:0:421078290><>" is a new user!!
+L 07/30/2022 - 23:15:59: [l4d2_shop.smx] [UPDATE]: "kanna y saikawa<62><STEAM_1:0:421078290><>" saved. Points: "0"
+L 07/30/2022 - 23:16:10: [l4d2_shop.smx] [INSERT]: "loorgabriel37<67><STEAM_1:0:704216980><>" is a new user!!
+L 07/30/2022 - 23:17:20: [l4d2_shop.smx] [UPDATE]: "loorgabriel37<67><STEAM_1:0:704216980><>" saved. Points: "0"
+L 07/30/2022 - 23:20:28: -------- Mapchange to c12m1_hilltop --------
+L 07/30/2022 - 23:20:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 23:20:48: [l4d2_shop.smx] [INSERT]: ":v<76><STEAM_1:1:614408467><>" is a new user!!
+L 07/30/2022 - 23:20:50: [l4d2_shop.smx] [INSERT]: "ivetselina<75><STEAM_1:0:707992949><>" is a new user!!
+L 07/30/2022 - 23:20:50: [l4d2_shop.smx] [INSERT]: "tu vieja<77><STEAM_1:0:94728783><>" is a new user!!
+L 07/30/2022 - 23:20:57: [l4d2_shop.smx] [INSERT]: "el capi<78><STEAM_1:1:498220672><>" is a new user!!
+L 07/30/2022 - 23:25:54: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "9"
+L 07/30/2022 - 23:25:54: [l4d2_shop.smx] [UPDATE]: ":v<76><STEAM_1:1:614408467><>" saved. Points: "4"
+L 07/30/2022 - 23:25:54: [l4d2_shop.smx] [UPDATE]: "tu vieja<77><STEAM_1:0:94728783><>" saved. Points: "8"
+L 07/30/2022 - 23:25:54: [l4d2_shop.smx] [UPDATE]: "el capi<78><STEAM_1:1:498220672><>" saved. Points: "2"
+L 07/30/2022 - 23:25:56: -------- Mapchange to c12m2_traintunnel --------
+L 07/30/2022 - 23:25:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 23:26:15: [l4d2_shop.smx] [LOAD]: ":v<76><STEAM_1:1:614408467><>" loaded the record successfully! Points: "4"
+L 07/30/2022 - 23:26:16: [l4d2_shop.smx] [LOAD]: "ivetselina<75><STEAM_1:0:707992949><>" loaded the record successfully! Points: "9"
+L 07/30/2022 - 23:26:19: [l4d2_shop.smx] [LOAD]: "tu vieja<77><STEAM_1:0:94728783><>" loaded the record successfully! Points: "8"
+L 07/30/2022 - 23:26:24: [l4d2_shop.smx] [LOAD]: "el capi<78><STEAM_1:1:498220672><>" loaded the record successfully! Points: "2"
+L 07/30/2022 - 23:30:00: [l4d2_shop.smx] [UPDATE]: "el capi<78><STEAM_1:1:498220672><>" saved. Points: "16"
+L 07/30/2022 - 23:30:04: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "14"
+L 07/30/2022 - 23:30:04: [l4d2_shop.smx] [UPDATE]: ":v<76><STEAM_1:1:614408467><>" saved. Points: "9"
+L 07/30/2022 - 23:30:04: [l4d2_shop.smx] [UPDATE]: "tu vieja<77><STEAM_1:0:94728783><>" saved. Points: "15"
+L 07/30/2022 - 23:30:06: -------- Mapchange to c12m3_bridge --------
+L 07/30/2022 - 23:30:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 23:30:24: [l4d2_shop.smx] [LOAD]: ":v<76><STEAM_1:1:614408467><>" loaded the record successfully! Points: "9"
+L 07/30/2022 - 23:30:25: [l4d2_shop.smx] [LOAD]: "ivetselina<75><STEAM_1:0:707992949><>" loaded the record successfully! Points: "14"
+L 07/30/2022 - 23:30:26: [l4d2_shop.smx] [LOAD]: "tu vieja<77><STEAM_1:0:94728783><>" loaded the record successfully! Points: "15"
+L 07/30/2022 - 23:31:07: [l4d2_shop.smx] [INSERT]: "Revlo 中文<102><STEAM_1:0:457151965><>" is a new user!!
+L 07/30/2022 - 23:36:48: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "28"
+L 07/30/2022 - 23:36:48: [l4d2_shop.smx] [UPDATE]: ":v<76><STEAM_1:1:614408467><>" saved. Points: "32"
+L 07/30/2022 - 23:36:48: [l4d2_shop.smx] [UPDATE]: "tu vieja<77><STEAM_1:0:94728783><>" saved. Points: "43"
+L 07/30/2022 - 23:36:49: [l4d2_shop.smx] [UPDATE]: "Revlo 中文<102><STEAM_1:0:457151965><>" saved. Points: "14"
+L 07/30/2022 - 23:36:50: -------- Mapchange to c12m4_barn --------
+L 07/30/2022 - 23:36:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_gamemode") (value "campaign")
+L 07/30/2022 - 23:37:09: [l4d2_shop.smx] [LOAD]: ":v<76><STEAM_1:1:614408467><>" loaded the record successfully! Points: "32"
+L 07/30/2022 - 23:37:10: [l4d2_shop.smx] [LOAD]: "ivetselina<75><STEAM_1:0:707992949><>" loaded the record successfully! Points: "28"
+L 07/30/2022 - 23:37:12: [l4d2_shop.smx] [LOAD]: "tu vieja<77><STEAM_1:0:94728783><>" loaded the record successfully! Points: "43"
+L 07/30/2022 - 23:37:15: [l4d2_shop.smx] [LOAD]: "Revlo 中文<102><STEAM_1:0:457151965><>" loaded the record successfully! Points: "14"
+L 07/30/2022 - 23:40:57: [l4d2_shop.smx] [Buy]: ":v<76><STEAM_1:1:614408467><>" bought "Pain Pills" (price: "43"), remaining points: "9"
+L 07/30/2022 - 23:41:15: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "32"
+L 07/30/2022 - 23:41:15: [l4d2_shop.smx] [UPDATE]: ":v<76><STEAM_1:1:614408467><>" saved. Points: "9"
+L 07/30/2022 - 23:41:15: [l4d2_shop.smx] [UPDATE]: "tu vieja<77><STEAM_1:0:94728783><>" saved. Points: "50"
+L 07/30/2022 - 23:41:15: [l4d2_shop.smx] [UPDATE]: "Revlo 中文<102><STEAM_1:0:457151965><>" saved. Points: "21"
+L 07/30/2022 - 23:41:26: [l4d2_shop.smx] [UPDATE]: "Revlo 中文<102><STEAM_1:0:457151965><>" saved. Points: "23"
+L 07/30/2022 - 23:41:41: [l4d2_shop.smx] [UPDATE]: ":v<76><STEAM_1:1:614408467><>" saved. Points: "9"
+L 07/30/2022 - 23:41:53: [l4d2_shop.smx] [INSERT]: "rodrigomijaelpr<125><STEAM_1:0:595665017><>" is a new user!!
+L 07/30/2022 - 23:41:58: [l4d2_shop.smx] [UPDATE]: "rodrigomijaelpr<125><STEAM_1:0:595665017><>" saved. Points: "0"
+L 07/30/2022 - 23:42:07: [l4d2_shop.smx] [INSERT]: "YeimsPump<127><STEAM_1:0:224158381><>" is a new user!!
+L 07/30/2022 - 23:42:53: [l4d2_shop.smx] [INSERT]: "porquisF4<131><STEAM_1:1:562339752><>" is a new user!!
+L 07/30/2022 - 23:44:21: [l4d2_shop.smx] [UPDATE]: "tu vieja<77><STEAM_1:0:94728783><>" saved. Points: "55"
+L 07/30/2022 - 23:44:22: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "34"
+L 07/30/2022 - 23:44:22: [l4d2_shop.smx] [UPDATE]: "YeimsPump<127><STEAM_1:0:224158381><>" saved. Points: "0"
+L 07/30/2022 - 23:44:22: [l4d2_shop.smx] [UPDATE]: "porquisF4<131><STEAM_1:1:562339752><>" saved. Points: "0"
+L 07/30/2022 - 23:45:26: [l4d2_shop.smx] [INSERT]: "OscarCaPi525<140><STEAM_1:1:240377336><>" is a new user!!
+L 07/30/2022 - 23:49:07: [l4d2_shop.smx] [UPDATE]: "porquisF4<131><STEAM_1:1:562339752><>" saved. Points: "14"
+L 07/30/2022 - 23:49:16: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "37"
+L 07/30/2022 - 23:49:16: [l4d2_shop.smx] [UPDATE]: "YeimsPump<127><STEAM_1:0:224158381><>" saved. Points: "6"
+L 07/30/2022 - 23:49:16: [l4d2_shop.smx] [UPDATE]: "OscarCaPi525<140><STEAM_1:1:240377336><>" saved. Points: "6"
+L 07/30/2022 - 23:49:49: [l4d2_shop.smx] [INSERT]: "Mr. B<151><STEAM_1:1:599380022><>" is a new user!!
+L 07/30/2022 - 23:50:07: [l4d2_shop.smx] [UPDATE]: "Mr. B<151><STEAM_1:1:599380022><>" saved. Points: "0"
+L 07/30/2022 - 23:51:42: [l4d2_shop.smx] [UPDATE]: "YeimsPump<127><STEAM_1:0:224158381><>" saved. Points: "9"
+L 07/30/2022 - 23:51:46: [l4d2_shop.smx] [INSERT]: "hermosillak736<156><STEAM_1:1:689059407><>" is a new user!!
+L 07/30/2022 - 23:52:12: [l4d2_shop.smx] [INSERT]: "fLaviaツ<159><STEAM_1:1:99616372><>" is a new user!!
+L 07/30/2022 - 23:52:19: [l4d2_shop.smx] [UPDATE]: "fLaviaツ<159><STEAM_1:1:99616372><>" saved. Points: "0"
+L 07/30/2022 - 23:53:36: [l4d2_shop.smx] [INSERT]: "Mr乂★anthony<160><STEAM_1:1:566636304><>" is a new user!!
+L 07/30/2022 - 23:57:33: [l4d2_shop.smx] [UPDATE]: "hermosillak736<156><STEAM_1:1:689059407><>" saved. Points: "4"
+L 07/30/2022 - 23:58:06: [l4d2_shop.smx] [LOAD]: "Mr. B<170><STEAM_1:1:599380022><>" loaded the record successfully! Points: "0"
+L 07/30/2022 - 23:58:09: [l4d2_shop.smx] [UPDATE]: "ivetselina<75><STEAM_1:0:707992949><>" saved. Points: "63"
+L 07/30/2022 - 23:58:09: [l4d2_shop.smx] [UPDATE]: "Mr乂★anthony<160><STEAM_1:1:566636304><>" saved. Points: "8"
+L 07/30/2022 - 23:58:09: [l4d2_shop.smx] [UPDATE]: "OscarCaPi525<140><STEAM_1:1:240377336><>" saved. Points: "23"
+L 07/30/2022 - 23:58:09: [l4d2_shop.smx] [UPDATE]: "Mr. B<170><STEAM_1:1:599380022><>" saved. Points: "0"
+L 07/30/2022 - 23:58:15: [l4d2_shop.smx] [UPDATE]: "OscarCaPi525<140><STEAM_1:1:240377336><>" saved. Points: "23"
+L 07/30/2022 - 23:58:40: [l4d2_shop.smx] [UPDATE]: "Mr. B<170><STEAM_1:1:599380022><>" saved. Points: "0"
+L 07/30/2022 - 23:58:46: [l4d2_shop.smx] [INSERT]: "bleh<173><STEAM_1:0:573648658><>" is a new user!!
+L 07/30/2022 - 23:59:17: [l4d2_shop.smx] [INSERT]: "Papi<175><STEAM_1:1:227880620><>" is a new user!!
+L 07/31/2022 - 00:00:00: Log file closed.

@@ -1,0 +1,2118 @@
+L 08/20/2022 - 00:06:18: SourceMod error session started
+L 08/20/2022 - 00:06:18: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:06:18: [SM] Error parsing gameconfig file "/home/louis/l4d2/left4dead2/addons/sourcemod/gamedata/l4d2_direct.txt":
+L 08/20/2022 - 00:06:18: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 08/20/2022 - 00:06:18: [SM] Exception reported: Unable to open l4d2_direct: File could not be opened: No such file or directory
+L 08/20/2022 - 00:06:18: [SM] Blaming: l4d2_ultra_witch.smx
+L 08/20/2022 - 00:06:18: [SM] Call stack trace:
+L 08/20/2022 - 00:06:18: [SM]   [0] LoadGameConfigFile
+L 08/20/2022 - 00:06:18: [SM]   [1] Line 51, F:\Programs\Steam\SteamApps\common\left 4 dead 2_WD_1TB_HDD\left4dead2\addons3\sourcemod\scripting\include\l4d2d_internals.inc::L4D2Direct_GetGameConf
+L 08/20/2022 - 00:06:18: [SM]   [2] Line 802, F:\Programs\Steam\SteamApps\common\left 4 dead 2_WD_1TB_HDD\left4dead2\addons3\sourcemod\scripting\include\l4d2_direct.inc::L4D2Direct_DoAnimationEvent
+L 08/20/2022 - 00:06:18: [SM]   [3] Line 82, plugin/EUplugins/eq/l4d2_ultra_witch.sp::OnTakeDamage
+L 08/20/2022 - 00:07:08: Error log file session closed.
+L 08/20/2022 - 00:07:08: SourceMod error session started
+L 08/20/2022 - 00:07:08: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:07:08: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 00:07:08: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:07:08: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 00:07:08: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:07:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 00:07:08: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 00:10:05: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:10:05: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:10:05: [SM] Call stack trace:
+L 08/20/2022 - 00:10:05: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:10:05: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:10:05: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:10:05: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:10:05: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:10:05: [SM] Call stack trace:
+L 08/20/2022 - 00:10:05: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:10:05: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:10:05: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:10:06: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:10:06: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:10:06: [SM] Call stack trace:
+L 08/20/2022 - 00:10:06: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:10:06: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:10:06: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:10:06: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:10:06: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:10:06: [SM] Call stack trace:
+L 08/20/2022 - 00:10:06: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:10:06: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:10:06: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:10:06: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:10:06: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:10:06: [SM] Call stack trace:
+L 08/20/2022 - 00:10:06: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:10:06: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:10:06: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:22:42: Error log file session closed.
+L 08/20/2022 - 00:22:42: SourceMod error session started
+L 08/20/2022 - 00:22:42: Info (map "c2m3_coaster") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:22:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 00:22:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:22:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 00:22:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:22:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 00:22:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 00:26:14: [SM] Exception reported: Invalid timer handle 5e9b069b (error 1)
+L 08/20/2022 - 00:26:14: [SM] Blaming: L4D2 Unstoppable Charger.smx
+L 08/20/2022 - 00:26:14: [SM] Call stack trace:
+L 08/20/2022 - 00:26:14: [SM]   [0] KillTimer
+L 08/20/2022 - 00:26:14: [SM]   [1] Line 620, /home/forums/content/files/3/2/4/7/4/6/195059.attach::ChargerAbility_LocomotiveFinish
+L 08/20/2022 - 00:26:14: [SM]   [2] Line 415, /home/forums/content/files/3/2/4/7/4/6/195059.attach::Event_ChargerImpact
+L 08/20/2022 - 00:26:15: [SM] Exception reported: Invalid timer handle 5e9b069b (error 1)
+L 08/20/2022 - 00:26:15: [SM] Blaming: L4D2 Unstoppable Charger.smx
+L 08/20/2022 - 00:26:15: [SM] Call stack trace:
+L 08/20/2022 - 00:26:15: [SM]   [0] KillTimer
+L 08/20/2022 - 00:26:15: [SM]   [1] Line 620, /home/forums/content/files/3/2/4/7/4/6/195059.attach::ChargerAbility_LocomotiveFinish
+L 08/20/2022 - 00:26:15: [SM]   [2] Line 428, /home/forums/content/files/3/2/4/7/4/6/195059.attach::Event_ChargeEnd
+L 08/20/2022 - 00:37:49: Error log file session closed.
+L 08/20/2022 - 00:37:49: SourceMod error session started
+L 08/20/2022 - 00:37:49: Info (map "c2m4_barns") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:37:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 00:37:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:37:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 00:37:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:37:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 00:37:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 00:42:28: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:42:28: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:42:28: [SM] Call stack trace:
+L 08/20/2022 - 00:42:28: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:42:28: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:42:28: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:42:28: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 00:42:28: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 00:42:28: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 00:42:28: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 00:42:28: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:42:28: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:42:28: [SM] Call stack trace:
+L 08/20/2022 - 00:42:28: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:42:28: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:42:28: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:42:28: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 00:42:28: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 00:42:28: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 00:42:28: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 00:47:39: Error log file session closed.
+L 08/20/2022 - 00:47:39: SourceMod error session started
+L 08/20/2022 - 00:47:39: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:47:39: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 00:47:39: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:47:39: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 00:47:39: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:47:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 00:47:39: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 00:53:45: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:53:45: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:53:45: [SM] Call stack trace:
+L 08/20/2022 - 00:53:45: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:53:45: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:53:45: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:53:45: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 00:53:45: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 00:53:45: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 00:53:45: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 00:53:45: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 00:53:45: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 00:53:45: [SM] Call stack trace:
+L 08/20/2022 - 00:53:45: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 00:53:45: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 00:53:45: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 00:53:45: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 00:53:45: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 00:53:45: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 00:53:45: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 00:54:04: [SM] Exception reported: Invalid timer handle fde805ee (error 1)
+L 08/20/2022 - 00:54:04: [SM] Blaming: L4D2 Unstoppable Charger.smx
+L 08/20/2022 - 00:54:04: [SM] Call stack trace:
+L 08/20/2022 - 00:54:04: [SM]   [0] KillTimer
+L 08/20/2022 - 00:54:04: [SM]   [1] Line 620, /home/forums/content/files/3/2/4/7/4/6/195059.attach::ChargerAbility_LocomotiveFinish
+L 08/20/2022 - 00:54:04: [SM]   [2] Line 428, /home/forums/content/files/3/2/4/7/4/6/195059.attach::Event_ChargeEnd
+L 08/20/2022 - 00:57:07: Error log file session closed.
+L 08/20/2022 - 00:57:07: SourceMod error session started
+L 08/20/2022 - 00:57:07: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 00:57:07: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 00:57:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:57:07: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 00:57:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 00:57:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 00:57:07: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:01:29: Error log file session closed.
+L 08/20/2022 - 01:01:29: SourceMod error session started
+L 08/20/2022 - 01:01:29: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:01:29: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:01:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:01:29: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:01:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:01:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:01:29: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:03:50: Error log file session closed.
+L 08/20/2022 - 01:03:50: SourceMod error session started
+L 08/20/2022 - 01:03:50: Info (map "c10m1_caves") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:03:50: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:03:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:03:50: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:03:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:03:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:03:50: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:12:10: Error log file session closed.
+L 08/20/2022 - 01:12:10: SourceMod error session started
+L 08/20/2022 - 01:12:10: Info (map "c5m5_bridge") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:12:10: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:12:10: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:12:10: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:12:10: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:12:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:12:10: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:15:39: [SM] Exception reported: Client 3 is not connected
+L 08/20/2022 - 01:15:39: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:15:39: [SM] Call stack trace:
+L 08/20/2022 - 01:15:39: [SM]   [0] StartMessage
+L 08/20/2022 - 01:15:39: [SM]   [1] Line 201, /groups/sourcemod/compiler-1.3/include/usermessages.inc::StartMessageOne
+L 08/20/2022 - 01:15:39: [SM]   [2] Line 934, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::ScreenFade
+L 08/20/2022 - 01:15:39: [SM]   [3] Line 769, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::DreadTimer
+L 08/20/2022 - 01:16:53: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 01:16:53: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:16:53: [SM] Call stack trace:
+L 08/20/2022 - 01:16:53: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 01:16:53: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 01:17:35: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 01:17:35: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:17:35: [SM] Call stack trace:
+L 08/20/2022 - 01:17:35: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 01:17:35: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 01:17:37: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 01:17:37: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:17:37: [SM] Call stack trace:
+L 08/20/2022 - 01:17:37: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 01:17:37: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 01:17:37: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 01:17:37: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:17:37: [SM] Call stack trace:
+L 08/20/2022 - 01:17:37: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 01:17:37: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 01:17:43: Error log file session closed.
+L 08/20/2022 - 01:17:43: SourceMod error session started
+L 08/20/2022 - 01:17:43: Info (map "c4m1_milltown_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:17:43: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:17:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:17:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:17:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:17:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:17:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:17:51: [SM] Exception reported: Entity -1 (-1) is invalid
+L 08/20/2022 - 01:17:51: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 01:17:51: [SM] Call stack trace:
+L 08/20/2022 - 01:17:51: [SM]   [0] SetEntProp
+L 08/20/2022 - 01:17:51: [SM]   [1] Line 251, /groups/sourcemod/compiler-1.3/include/entity_prop_stocks.inc::SetEntityMoveType
+L 08/20/2022 - 01:17:51: [SM]   [2] Line 781, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::HowlTimer
+L 08/20/2022 - 01:22:04: Error log file session closed.
+L 08/20/2022 - 01:22:04: SourceMod error session started
+L 08/20/2022 - 01:22:04: Info (map "c4m2_sugarmill_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:22:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:22:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:22:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:22:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:22:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:22:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:33:26: Error log file session closed.
+L 08/20/2022 - 01:33:26: SourceMod error session started
+L 08/20/2022 - 01:33:26: Info (map "c4m1_milltown_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:33:26: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:33:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:33:26: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:33:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:33:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:33:26: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:35:42: Error log file session closed.
+L 08/20/2022 - 01:35:42: SourceMod error session started
+L 08/20/2022 - 01:35:42: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:35:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:35:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:35:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:35:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:35:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:35:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:42:36: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:36: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:36: [SM] Call stack trace:
+L 08/20/2022 - 01:42:36: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:36: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:36: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:36: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:36: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:36: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:36: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:36: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:36: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:36: [SM] Call stack trace:
+L 08/20/2022 - 01:42:36: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:36: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:36: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:36: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:36: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:36: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:36: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:37: [SM] Call stack trace:
+L 08/20/2022 - 01:42:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:38: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:38: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:38: [SM] Call stack trace:
+L 08/20/2022 - 01:42:38: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:38: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:38: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:38: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:38: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:38: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:38: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:38: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:38: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:38: [SM] Call stack trace:
+L 08/20/2022 - 01:42:38: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:38: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:38: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:38: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:38: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:38: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:38: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:38: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:38: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:38: [SM] Call stack trace:
+L 08/20/2022 - 01:42:38: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:38: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:38: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:38: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:38: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:38: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:38: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:42:38: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:42:38: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:42:38: [SM] Call stack trace:
+L 08/20/2022 - 01:42:38: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:42:38: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:42:38: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:42:38: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:42:38: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:42:38: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:42:38: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:01: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:01: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:01: [SM] Call stack trace:
+L 08/20/2022 - 01:43:01: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:01: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:01: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:01: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:01: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:01: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:01: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:43:37: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 01:43:37: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 01:43:37: [SM] Call stack trace:
+L 08/20/2022 - 01:43:37: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 01:43:37: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 01:43:37: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 01:43:37: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 01:43:37: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 01:43:37: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 01:43:37: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 01:45:43: Error log file session closed.
+L 08/20/2022 - 01:45:43: SourceMod error session started
+L 08/20/2022 - 01:45:43: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:45:43: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:45:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:45:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:45:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:45:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:45:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 01:56:56: Error log file session closed.
+L 08/20/2022 - 01:56:56: SourceMod error session started
+L 08/20/2022 - 01:56:56: Info (map "c13m1_alpinecreek") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 01:56:56: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 01:56:56: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:56:56: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 01:56:56: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 01:56:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 01:56:56: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:01:40: Error log file session closed.
+L 08/20/2022 - 02:01:40: SourceMod error session started
+L 08/20/2022 - 02:01:40: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:01:40: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:01:40: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:01:40: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:01:40: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:01:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:01:40: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:07:49: Error log file session closed.
+L 08/20/2022 - 02:07:49: SourceMod error session started
+L 08/20/2022 - 02:07:49: Info (map "c5m2_park") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:07:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:07:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:07:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:07:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:07:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:07:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:17:48: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 02:17:48: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 02:17:48: [SM] Call stack trace:
+L 08/20/2022 - 02:17:48: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 02:17:48: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 02:17:48: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 02:17:48: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 02:17:48: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 02:17:48: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 02:17:48: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 02:17:48: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 02:17:48: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 02:17:48: [SM] Call stack trace:
+L 08/20/2022 - 02:17:48: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 02:17:48: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 02:17:48: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 02:17:48: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 02:17:48: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 02:17:48: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 02:17:48: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 02:17:49: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 02:17:49: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 02:17:49: [SM] Call stack trace:
+L 08/20/2022 - 02:17:49: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 02:17:49: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 02:17:49: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 02:17:49: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 02:17:49: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 02:17:49: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 02:17:49: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 02:17:49: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 02:17:49: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 02:17:49: [SM] Call stack trace:
+L 08/20/2022 - 02:17:49: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 02:17:49: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 02:17:49: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 02:17:49: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 02:17:49: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 02:17:49: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 02:17:49: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 02:18:39: [SM] Exception reported: Invalid timer handle 215c0741 (error 1)
+L 08/20/2022 - 02:18:39: [SM] Blaming: L4D2 Unstoppable Charger.smx
+L 08/20/2022 - 02:18:39: [SM] Call stack trace:
+L 08/20/2022 - 02:18:39: [SM]   [0] KillTimer
+L 08/20/2022 - 02:18:39: [SM]   [1] Line 620, /home/forums/content/files/3/2/4/7/4/6/195059.attach::ChargerAbility_LocomotiveFinish
+L 08/20/2022 - 02:18:39: [SM]   [2] Line 428, /home/forums/content/files/3/2/4/7/4/6/195059.attach::Event_ChargeEnd
+L 08/20/2022 - 02:22:21: Error log file session closed.
+L 08/20/2022 - 02:22:21: SourceMod error session started
+L 08/20/2022 - 02:22:21: Info (map "c5m3_cemetery") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:22:21: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:22:21: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:22:21: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:22:21: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:22:21: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:22:21: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:25:11: SourceMod error session started
+L 08/20/2022 - 02:25:11: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:25:11: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 08/20/2022 - 02:25:11: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 08/20/2022 - 02:25:11: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:25:11: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:25:11: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:25:11: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:25:11: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:25:11: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:25:11: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:25:11: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:25:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:25:12: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:25:12: [SM] Blaming: l4d2_zoey_unlock.smx
+L 08/20/2022 - 02:25:12: [SM] Call stack trace:
+L 08/20/2022 - 02:25:12: [SM]   [0] SetFailState
+L 08/20/2022 - 02:25:12: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:25:12: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:25:12: [SM] Blaming: l4d2_knife_unlock.smx
+L 08/20/2022 - 02:25:12: [SM] Call stack trace:
+L 08/20/2022 - 02:25:12: [SM]   [0] SetFailState
+L 08/20/2022 - 02:25:12: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:25:12: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:25:12: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 08/20/2022 - 02:25:12: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:25:12: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 08/20/2022 - 02:25:12: [SM] Call stack trace:
+L 08/20/2022 - 02:25:12: [SM]   [0] SetFailState
+L 08/20/2022 - 02:25:12: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 02:25:12: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 02:25:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:25:13: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:25:53: Error log file session closed.
+L 08/20/2022 - 02:25:53: SourceMod error session started
+L 08/20/2022 - 02:25:53: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:25:53: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:25:53: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:25:53: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:25:53: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:25:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:25:53: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:38:52: Error log file session closed.
+L 08/20/2022 - 02:38:52: SourceMod error session started
+L 08/20/2022 - 02:38:52: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:38:52: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:38:52: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:38:52: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:38:52: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:38:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:38:52: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:40:31: SourceMod error session started
+L 08/20/2022 - 02:40:31: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:40:31: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 08/20/2022 - 02:40:31: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 08/20/2022 - 02:40:31: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:40:31: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:40:31: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:40:31: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 02:40:31: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:40:31: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:40:31: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 02:40:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:40:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:40:32: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:40:32: [SM] Blaming: l4d2_zoey_unlock.smx
+L 08/20/2022 - 02:40:32: [SM] Call stack trace:
+L 08/20/2022 - 02:40:32: [SM]   [0] SetFailState
+L 08/20/2022 - 02:40:32: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:40:32: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:40:32: [SM] Blaming: l4d2_knife_unlock.smx
+L 08/20/2022 - 02:40:32: [SM] Call stack trace:
+L 08/20/2022 - 02:40:32: [SM]   [0] SetFailState
+L 08/20/2022 - 02:40:32: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:40:32: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:40:32: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 08/20/2022 - 02:40:32: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 02:40:32: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 08/20/2022 - 02:40:32: [SM] Call stack trace:
+L 08/20/2022 - 02:40:32: [SM]   [0] SetFailState
+L 08/20/2022 - 02:40:32: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 02:40:32: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 02:40:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:40:33: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 02:59:46: Error log file session closed.
+L 08/20/2022 - 02:59:46: SourceMod error session started
+L 08/20/2022 - 02:59:46: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 02:59:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 02:59:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:59:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 02:59:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 02:59:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 02:59:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:01:40: [SM] Exception reported: Client index 0 is invalid
+L 08/20/2022 - 03:01:40: [SM] Blaming: [L4D2] Death Animations Restore.smx
+L 08/20/2022 - 03:01:40: [SM] Call stack trace:
+L 08/20/2022 - 03:01:40: [SM]   [0] IsClientInGame
+L 08/20/2022 - 03:01:40: [SM]   [1] Line 139, C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\[L4D2] Death Animations Restore.sp::ForcePlayerSuicideTimer
+L 08/20/2022 - 03:12:24: Error log file session closed.
+L 08/20/2022 - 03:12:24: SourceMod error session started
+L 08/20/2022 - 03:12:24: Info (map "c6m3_port") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:12:24: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:12:24: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:12:24: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:12:24: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:12:24: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:12:24: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:14:39: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:39: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:39: [SM] Call stack trace:
+L 08/20/2022 - 03:14:39: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:39: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:39: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:39: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:39: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:39: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:39: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:40: [SM] Call stack trace:
+L 08/20/2022 - 03:14:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:40: [SM] Call stack trace:
+L 08/20/2022 - 03:14:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:40: [SM] Call stack trace:
+L 08/20/2022 - 03:14:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:41: [SM] Call stack trace:
+L 08/20/2022 - 03:14:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:41: [SM] Call stack trace:
+L 08/20/2022 - 03:14:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:41: [SM] Call stack trace:
+L 08/20/2022 - 03:14:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:14:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:14:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:14:41: [SM] Call stack trace:
+L 08/20/2022 - 03:14:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:14:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:14:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:14:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:14:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:14:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:14:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:15:33: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:15:33: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:15:33: [SM] Call stack trace:
+L 08/20/2022 - 03:15:33: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:15:33: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:15:33: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:15:33: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:15:33: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:15:33: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:15:33: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:15:33: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:15:33: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:15:33: [SM] Call stack trace:
+L 08/20/2022 - 03:15:33: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:15:33: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:15:33: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:15:33: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:15:33: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:15:33: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:15:33: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:15:33: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:15:33: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:15:33: [SM] Call stack trace:
+L 08/20/2022 - 03:15:33: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:15:33: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:15:33: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:15:33: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:15:33: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:15:33: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:15:33: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:15:33: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:15:33: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:15:33: [SM] Call stack trace:
+L 08/20/2022 - 03:15:33: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:15:33: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:15:33: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:15:33: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:15:33: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:15:33: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:15:33: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:31: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:16:31: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:16:31: [SM] Call stack trace:
+L 08/20/2022 - 03:16:31: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:16:31: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:16:31: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:16:31: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:16:31: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:16:31: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:16:31: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:32: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:16:32: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:16:32: [SM] Call stack trace:
+L 08/20/2022 - 03:16:32: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:16:32: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:16:32: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:16:32: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:16:32: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:16:32: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:16:32: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:32: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:16:32: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:16:32: [SM] Call stack trace:
+L 08/20/2022 - 03:16:32: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:16:32: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:16:32: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:16:32: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:16:32: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:16:32: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:16:32: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:32: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:16:32: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:16:32: [SM] Call stack trace:
+L 08/20/2022 - 03:16:32: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:16:32: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:16:32: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:16:32: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:16:32: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:16:32: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:16:32: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:33: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 03:16:33: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 03:16:33: [SM] Call stack trace:
+L 08/20/2022 - 03:16:33: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 03:16:33: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 03:16:33: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 03:16:33: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 03:16:33: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 03:16:33: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 03:16:33: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 03:16:59: [SM] Exception reported: Invalid timer handle 2e370599 (error 1)
+L 08/20/2022 - 03:16:59: [SM] Blaming: L4D2 Unstoppable Charger.smx
+L 08/20/2022 - 03:16:59: [SM] Call stack trace:
+L 08/20/2022 - 03:16:59: [SM]   [0] KillTimer
+L 08/20/2022 - 03:16:59: [SM]   [1] Line 620, /home/forums/content/files/3/2/4/7/4/6/195059.attach::ChargerAbility_LocomotiveFinish
+L 08/20/2022 - 03:16:59: [SM]   [2] Line 428, /home/forums/content/files/3/2/4/7/4/6/195059.attach::Event_ChargeEnd
+L 08/20/2022 - 03:17:35: Error log file session closed.
+L 08/20/2022 - 03:17:35: SourceMod error session started
+L 08/20/2022 - 03:17:35: Info (map "c6m1_riverbank") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:17:35: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:17:35: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:17:35: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:17:35: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:17:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:17:35: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:18:04: Error log file session closed.
+L 08/20/2022 - 03:18:04: SourceMod error session started
+L 08/20/2022 - 03:18:04: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:18:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:18:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:18:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:18:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:18:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:18:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:24:15: Error log file session closed.
+L 08/20/2022 - 03:24:15: SourceMod error session started
+L 08/20/2022 - 03:24:15: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:24:15: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:24:15: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:24:15: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:24:15: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:24:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:24:15: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:27:41: Error log file session closed.
+L 08/20/2022 - 03:27:41: SourceMod error session started
+L 08/20/2022 - 03:27:41: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:27:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:27:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:27:41: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:27:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:27:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:27:41: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:34:22: Error log file session closed.
+L 08/20/2022 - 03:34:22: SourceMod error session started
+L 08/20/2022 - 03:34:22: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:34:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:34:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:34:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:34:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:34:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:34:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:37:21: SourceMod error session started
+L 08/20/2022 - 03:37:21: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:37:21: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 08/20/2022 - 03:37:21: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 08/20/2022 - 03:37:21: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 03:37:21: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 03:37:21: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 03:37:21: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 03:37:21: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 03:37:21: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 03:37:21: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 03:37:21: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:37:21: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:37:21: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 03:37:21: [SM] Blaming: l4d2_zoey_unlock.smx
+L 08/20/2022 - 03:37:21: [SM] Call stack trace:
+L 08/20/2022 - 03:37:21: [SM]   [0] SetFailState
+L 08/20/2022 - 03:37:21: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 08/20/2022 - 03:37:21: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 03:37:22: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 03:37:22: [SM] Blaming: l4d2_knife_unlock.smx
+L 08/20/2022 - 03:37:22: [SM] Call stack trace:
+L 08/20/2022 - 03:37:22: [SM]   [0] SetFailState
+L 08/20/2022 - 03:37:22: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 08/20/2022 - 03:37:22: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 03:37:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:37:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:37:22: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 08/20/2022 - 03:37:22: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 03:37:22: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 08/20/2022 - 03:37:22: [SM] Call stack trace:
+L 08/20/2022 - 03:37:22: [SM]   [0] SetFailState
+L 08/20/2022 - 03:37:22: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 08/20/2022 - 03:37:22: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 03:37:22: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 03:37:22: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 03:37:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:37:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:38:04: Error log file session closed.
+L 08/20/2022 - 03:38:04: SourceMod error session started
+L 08/20/2022 - 03:38:04: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:38:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:38:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:38:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:38:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:38:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:38:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:41:41: Error log file session closed.
+L 08/20/2022 - 03:41:41: SourceMod error session started
+L 08/20/2022 - 03:41:41: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:41:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:41:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:41:41: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:41:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:41:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:41:41: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:48:55: Error log file session closed.
+L 08/20/2022 - 03:48:55: SourceMod error session started
+L 08/20/2022 - 03:48:55: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:48:55: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:48:55: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:48:55: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:48:55: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:48:55: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:48:55: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:55:23: Error log file session closed.
+L 08/20/2022 - 03:55:23: SourceMod error session started
+L 08/20/2022 - 03:55:23: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:55:23: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:55:23: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:55:23: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:55:23: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:55:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:55:23: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 03:58:02: Error log file session closed.
+L 08/20/2022 - 03:58:02: SourceMod error session started
+L 08/20/2022 - 03:58:02: Info (map "c9m1_alleys") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 03:58:02: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 03:58:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:58:02: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 03:58:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 03:58:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 03:58:02: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:03:27: Error log file session closed.
+L 08/20/2022 - 04:03:27: SourceMod error session started
+L 08/20/2022 - 04:03:27: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:03:27: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:03:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:03:27: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:03:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:03:27: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:03:27: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:07:25: Error log file session closed.
+L 08/20/2022 - 04:07:25: SourceMod error session started
+L 08/20/2022 - 04:07:25: Info (map "c10m5_houseboat") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:07:25: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:07:25: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:07:25: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:07:25: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:07:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:07:25: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:13:31: Error log file session closed.
+L 08/20/2022 - 04:13:31: SourceMod error session started
+L 08/20/2022 - 04:13:31: Info (map "c10m5_houseboat") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:13:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:13:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:13:31: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:13:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:13:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:13:31: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:13:38: Error log file session closed.
+L 08/20/2022 - 04:13:38: SourceMod error session started
+L 08/20/2022 - 04:13:38: Info (map "c10m1_caves") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:13:38: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:13:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:13:38: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:13:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:13:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:13:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:14:29: Error log file session closed.
+L 08/20/2022 - 04:14:29: SourceMod error session started
+L 08/20/2022 - 04:14:29: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:14:29: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:14:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:14:29: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:14:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:14:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:14:29: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:23:38: Error log file session closed.
+L 08/20/2022 - 04:23:38: SourceMod error session started
+L 08/20/2022 - 04:23:38: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:23:38: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:23:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:23:38: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:23:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:23:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:23:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:29:29: Error log file session closed.
+L 08/20/2022 - 04:29:29: SourceMod error session started
+L 08/20/2022 - 04:29:29: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:29:29: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:29:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:29:29: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:29:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:29:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:29:29: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:32:46: Error log file session closed.
+L 08/20/2022 - 04:32:46: SourceMod error session started
+L 08/20/2022 - 04:32:46: Info (map "c11m2_offices") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:32:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:32:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:32:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:32:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:32:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:32:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:37:45: Error log file session closed.
+L 08/20/2022 - 04:37:45: SourceMod error session started
+L 08/20/2022 - 04:37:45: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:37:45: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:37:45: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:37:45: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:37:45: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:37:45: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:37:45: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:38:04: Error log file session closed.
+L 08/20/2022 - 04:38:04: SourceMod error session started
+L 08/20/2022 - 04:38:04: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:38:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:38:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:38:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:38:04: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:38:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:38:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:43:31: Error log file session closed.
+L 08/20/2022 - 04:43:31: SourceMod error session started
+L 08/20/2022 - 04:43:31: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:43:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:43:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:43:31: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:43:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:43:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:43:31: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:45:56: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:45:56: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:45:56: [SM] Call stack trace:
+L 08/20/2022 - 04:45:56: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:45:56: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:45:56: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:45:56: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:45:56: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:45:56: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:45:56: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:47:46: Error log file session closed.
+L 08/20/2022 - 04:47:46: SourceMod error session started
+L 08/20/2022 - 04:47:46: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:47:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:47:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:47:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:47:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:47:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:47:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 04:51:17: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:51:17: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:51:17: [SM] Call stack trace:
+L 08/20/2022 - 04:51:17: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:51:17: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:51:17: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:51:17: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:51:17: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:51:17: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:51:17: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:51:17: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:51:17: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:51:17: [SM] Call stack trace:
+L 08/20/2022 - 04:51:17: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:51:17: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:51:17: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:51:17: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:51:17: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:51:17: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:51:17: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:51:18: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:51:18: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:51:18: [SM] Call stack trace:
+L 08/20/2022 - 04:51:18: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:51:18: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:51:18: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:51:18: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:51:18: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:51:18: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:51:18: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:40: [SM] Call stack trace:
+L 08/20/2022 - 04:52:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:40: [SM] Call stack trace:
+L 08/20/2022 - 04:52:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:40: [SM] Call stack trace:
+L 08/20/2022 - 04:52:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:40: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:40: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:40: [SM] Call stack trace:
+L 08/20/2022 - 04:52:40: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:40: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:40: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:40: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:40: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:40: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:40: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:41: [SM] Call stack trace:
+L 08/20/2022 - 04:52:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:41: [SM] Call stack trace:
+L 08/20/2022 - 04:52:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:41: [SM] Call stack trace:
+L 08/20/2022 - 04:52:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:41: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:41: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:41: [SM] Call stack trace:
+L 08/20/2022 - 04:52:41: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:41: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:41: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:41: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:41: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:41: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:41: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:43: [SM] Call stack trace:
+L 08/20/2022 - 04:52:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:43: [SM] Call stack trace:
+L 08/20/2022 - 04:52:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:43: [SM] Call stack trace:
+L 08/20/2022 - 04:52:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:52:44: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 04:52:44: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 04:52:44: [SM] Call stack trace:
+L 08/20/2022 - 04:52:44: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 04:52:44: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 04:52:44: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 04:52:44: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 04:52:44: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 04:52:44: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 04:52:44: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 04:57:29: Error log file session closed.
+L 08/20/2022 - 04:57:29: SourceMod error session started
+L 08/20/2022 - 04:57:29: Info (map "c9m1_alleys") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 04:57:29: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 04:57:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:57:29: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 04:57:29: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 04:57:29: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 04:57:29: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:03:18: Error log file session closed.
+L 08/20/2022 - 05:03:18: SourceMod error session started
+L 08/20/2022 - 05:03:18: Info (map "c8m3_sewers") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:03:18: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:03:18: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:03:18: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:03:18: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:03:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:03:18: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:18:01: Error log file session closed.
+L 08/20/2022 - 05:18:01: SourceMod error session started
+L 08/20/2022 - 05:18:01: Info (map "c8m4_interior") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:18:01: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:18:01: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:18:01: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:18:01: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:18:01: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:18:01: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:48:17: Error log file session closed.
+L 08/20/2022 - 05:48:17: SourceMod error session started
+L 08/20/2022 - 05:48:17: Info (map "c8m3_sewers") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:48:17: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:48:17: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:48:17: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:48:17: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:48:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:48:17: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:48:22: Error log file session closed.
+L 08/20/2022 - 05:48:22: SourceMod error session started
+L 08/20/2022 - 05:48:22: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:48:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:48:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:48:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:48:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:48:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:48:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:49:36: Error log file session closed.
+L 08/20/2022 - 05:49:36: SourceMod error session started
+L 08/20/2022 - 05:49:36: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:49:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:49:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:49:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:49:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:49:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:49:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 05:55:16: Error log file session closed.
+L 08/20/2022 - 05:55:16: SourceMod error session started
+L 08/20/2022 - 05:55:16: Info (map "c12m1_hilltop") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 05:55:16: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 05:55:16: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:55:16: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 05:55:16: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 05:55:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 05:55:16: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 06:04:36: Error log file session closed.
+L 08/20/2022 - 06:04:36: SourceMod error session started
+L 08/20/2022 - 06:04:36: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 06:04:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 06:04:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:04:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 06:04:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:04:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 06:04:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 06:10:47: Error log file session closed.
+L 08/20/2022 - 06:10:47: SourceMod error session started
+L 08/20/2022 - 06:10:47: Info (map "c1m2_streets") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 06:10:47: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 06:10:47: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:10:47: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 06:10:47: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:10:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 06:10:47: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 06:15:42: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:42: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:42: [SM] Call stack trace:
+L 08/20/2022 - 06:15:42: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:42: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:42: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:42: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:42: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:42: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:42: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:42: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:42: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:42: [SM] Call stack trace:
+L 08/20/2022 - 06:15:42: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:42: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:42: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:42: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:42: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:42: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:42: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:15:43: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 06:15:43: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 06:15:43: [SM] Call stack trace:
+L 08/20/2022 - 06:15:43: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 06:15:43: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 06:15:43: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 06:15:43: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 06:15:43: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 06:15:43: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 06:15:43: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 06:37:36: Error log file session closed.
+L 08/20/2022 - 06:37:36: SourceMod error session started
+L 08/20/2022 - 06:37:36: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 06:37:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 06:37:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:37:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 06:37:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:37:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 06:37:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 06:43:59: Error log file session closed.
+L 08/20/2022 - 06:43:59: SourceMod error session started
+L 08/20/2022 - 06:43:59: Info (map "c13m3_memorialbridge") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 06:43:59: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 06:43:59: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:43:59: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 06:43:59: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:43:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 06:43:59: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 06:46:40: Error log file session closed.
+L 08/20/2022 - 06:46:40: SourceMod error session started
+L 08/20/2022 - 06:46:40: Info (map "c13m1_alpinecreek") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 06:46:40: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 06:46:40: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:46:40: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 06:46:40: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 06:46:40: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 06:46:40: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 08:06:42: Error log file session closed.
+L 08/20/2022 - 08:06:42: SourceMod error session started
+L 08/20/2022 - 08:06:42: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 08:06:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 08:06:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 08:06:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 08:06:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 08:06:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 08:06:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 12:05:41: Error log file session closed.
+L 08/20/2022 - 12:05:41: SourceMod error session started
+L 08/20/2022 - 12:05:41: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 12:05:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 12:05:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:05:41: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 12:05:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:05:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 12:05:41: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 12:11:46: Error log file session closed.
+L 08/20/2022 - 12:11:46: SourceMod error session started
+L 08/20/2022 - 12:11:46: Info (map "c5m2_park") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 12:11:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 12:11:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:11:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 12:11:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:11:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 12:11:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 12:19:00: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:00: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:00: [SM] Call stack trace:
+L 08/20/2022 - 12:19:00: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:00: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:00: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:00: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:00: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:00: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:00: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:00: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:00: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:00: [SM] Call stack trace:
+L 08/20/2022 - 12:19:00: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:00: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:00: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:00: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:00: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:00: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:00: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:00: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:00: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:00: [SM] Call stack trace:
+L 08/20/2022 - 12:19:00: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:00: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:00: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:00: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:00: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:00: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:00: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:00: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:00: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:00: [SM] Call stack trace:
+L 08/20/2022 - 12:19:00: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:00: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:00: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:00: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:00: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:00: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:00: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:01: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:01: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:01: [SM] Call stack trace:
+L 08/20/2022 - 12:19:01: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:01: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:01: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:01: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:01: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:01: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:01: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:02: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:02: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:02: [SM] Call stack trace:
+L 08/20/2022 - 12:19:02: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:02: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:02: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:02: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:02: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:02: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:02: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:02: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:02: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:02: [SM] Call stack trace:
+L 08/20/2022 - 12:19:02: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:02: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:02: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:02: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:02: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:02: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:02: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:19:02: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 12:19:02: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 12:19:02: [SM] Call stack trace:
+L 08/20/2022 - 12:19:02: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 12:19:02: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 12:19:02: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 12:19:02: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 12:19:02: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 12:19:02: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 12:19:02: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 12:21:38: Error log file session closed.
+L 08/20/2022 - 12:21:38: SourceMod error session started
+L 08/20/2022 - 12:21:38: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 12:21:38: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 12:21:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:21:38: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 12:21:38: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:21:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 12:21:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 12:47:46: Error log file session closed.
+L 08/20/2022 - 12:47:46: SourceMod error session started
+L 08/20/2022 - 12:47:46: Info (map "c10m1_caves") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 12:47:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 12:47:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:47:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 12:47:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:47:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 12:47:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 12:50:58: Error log file session closed.
+L 08/20/2022 - 12:50:58: SourceMod error session started
+L 08/20/2022 - 12:50:58: Info (map "c10m2_drainage") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 12:50:58: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 12:50:58: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:50:58: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 12:50:58: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 12:50:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 12:50:58: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 13:09:06: Error log file session closed.
+L 08/20/2022 - 13:09:06: SourceMod error session started
+L 08/20/2022 - 13:09:06: Info (map "c10m1_caves") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 13:09:06: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 13:09:06: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 13:09:06: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 13:09:06: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 13:09:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 13:09:06: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 14:50:28: Error log file session closed.
+L 08/20/2022 - 14:50:28: SourceMod error session started
+L 08/20/2022 - 14:50:28: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 14:50:28: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 14:50:28: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 14:50:28: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 14:50:28: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 14:50:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 14:50:28: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 14:59:49: Error log file session closed.
+L 08/20/2022 - 14:59:49: SourceMod error session started
+L 08/20/2022 - 14:59:49: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 14:59:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 14:59:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 14:59:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 14:59:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 14:59:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 14:59:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 15:03:31: Error log file session closed.
+L 08/20/2022 - 15:03:31: SourceMod error session started
+L 08/20/2022 - 15:03:31: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 15:03:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 15:03:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 15:03:31: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 15:03:31: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 15:03:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 15:03:31: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:13:43: Error log file session closed.
+L 08/20/2022 - 16:13:43: SourceMod error session started
+L 08/20/2022 - 16:13:43: Info (map "c1m2_streets") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:13:43: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:13:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:13:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:13:43: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:13:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:13:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:16:13: Error log file session closed.
+L 08/20/2022 - 16:16:13: SourceMod error session started
+L 08/20/2022 - 16:16:13: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:16:13: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:16:13: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:16:13: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:16:13: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:16:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:16:13: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:23:46: Error log file session closed.
+L 08/20/2022 - 16:23:46: SourceMod error session started
+L 08/20/2022 - 16:23:46: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:23:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:23:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:23:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:23:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:23:47: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:23:47: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:27:15: Error log file session closed.
+L 08/20/2022 - 16:27:15: SourceMod error session started
+L 08/20/2022 - 16:27:15: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:27:15: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:27:15: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:27:15: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:27:15: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:27:15: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:27:15: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:37:34: Error log file session closed.
+L 08/20/2022 - 16:37:34: SourceMod error session started
+L 08/20/2022 - 16:37:34: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:37:34: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:37:34: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:37:34: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:37:34: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:37:34: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:37:34: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:47:11: Error log file session closed.
+L 08/20/2022 - 16:47:11: SourceMod error session started
+L 08/20/2022 - 16:47:11: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:47:11: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:47:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:47:11: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:47:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:47:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:47:11: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 16:55:19: Error log file session closed.
+L 08/20/2022 - 16:55:19: SourceMod error session started
+L 08/20/2022 - 16:55:19: Info (map "c2m3_coaster") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 16:55:19: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 16:55:19: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:55:19: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 16:55:19: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 16:55:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 16:55:19: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:17:54: Error log file session closed.
+L 08/20/2022 - 17:17:54: SourceMod error session started
+L 08/20/2022 - 17:17:54: Info (map "c2m4_barns") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:17:54: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:17:54: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:17:54: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:17:54: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:17:54: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:17:54: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:20:17: Error log file session closed.
+L 08/20/2022 - 17:20:17: SourceMod error session started
+L 08/20/2022 - 17:20:17: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:20:17: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:20:17: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:20:17: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:20:17: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:20:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:20:17: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:24:26: SourceMod error session started
+L 08/20/2022 - 17:24:26: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:24:26: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 08/20/2022 - 17:24:26: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 08/20/2022 - 17:24:26: [SM] Failed to load plugin "LMC_L4D1_RandomSpawns.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 17:24:26: [SM] Failed to load plugin "LMCL4D1SetTransmit.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 17:24:26: [SM] Failed to load plugin "LMCL4D1CDeathHandler.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 17:24:26: [SM] Failed to load plugin "LMC_L4D1_Menu_Choosing.smx": Plugin only supports Left 4 Dead.
+L 08/20/2022 - 17:24:26: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 17:24:26: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 17:24:26: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 08/20/2022 - 17:24:26: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:24:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:24:26: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 17:24:26: [SM] Blaming: l4d2_zoey_unlock.smx
+L 08/20/2022 - 17:24:26: [SM] Call stack trace:
+L 08/20/2022 - 17:24:26: [SM]   [0] SetFailState
+L 08/20/2022 - 17:24:26: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 08/20/2022 - 17:24:26: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 17:24:26: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 17:24:26: [SM] Blaming: l4d2_knife_unlock.smx
+L 08/20/2022 - 17:24:26: [SM] Call stack trace:
+L 08/20/2022 - 17:24:26: [SM]   [0] SetFailState
+L 08/20/2022 - 17:24:26: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 08/20/2022 - 17:24:26: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 17:24:27: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:24:27: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:24:27: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 08/20/2022 - 17:24:27: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 08/20/2022 - 17:24:27: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 08/20/2022 - 17:24:27: [SM] Call stack trace:
+L 08/20/2022 - 17:24:27: [SM]   [0] SetFailState
+L 08/20/2022 - 17:24:27: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 08/20/2022 - 17:24:27: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 08/20/2022 - 17:24:27: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 17:24:27: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 08/20/2022 - 17:24:27: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:24:27: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:24:49: Error log file session closed.
+L 08/20/2022 - 17:24:49: SourceMod error session started
+L 08/20/2022 - 17:24:49: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:24:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:24:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:24:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:24:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:24:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:24:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:33:06: Error log file session closed.
+L 08/20/2022 - 17:33:06: SourceMod error session started
+L 08/20/2022 - 17:33:06: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:33:06: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:33:06: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:33:06: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:33:06: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:33:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:33:06: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 17:56:00: Error log file session closed.
+L 08/20/2022 - 17:56:00: SourceMod error session started
+L 08/20/2022 - 17:56:00: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 17:56:00: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 17:56:00: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:56:00: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 17:56:00: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 17:56:00: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 17:56:00: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 18:01:56: Error log file session closed.
+L 08/20/2022 - 18:01:56: SourceMod error session started
+L 08/20/2022 - 18:01:56: Info (map "c2m3_coaster") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 18:01:56: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 18:01:56: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:01:56: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 18:01:56: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:01:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 18:01:56: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 18:19:51: Error log file session closed.
+L 08/20/2022 - 18:19:51: SourceMod error session started
+L 08/20/2022 - 18:19:51: Info (map "c2m4_barns") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 18:19:51: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 18:19:51: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:19:51: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 18:19:51: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:19:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 18:19:51: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 18:33:35: Error log file session closed.
+L 08/20/2022 - 18:33:35: SourceMod error session started
+L 08/20/2022 - 18:33:35: Info (map "c2m5_concert") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 18:33:35: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 18:33:35: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:33:35: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 18:33:35: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 18:33:35: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 18:33:35: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 18:36:38: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 18:36:38: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 18:36:38: [SM] Call stack trace:
+L 08/20/2022 - 18:36:38: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 18:36:38: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 18:38:31: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 18:38:31: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 18:38:31: [SM] Call stack trace:
+L 08/20/2022 - 18:38:31: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 18:38:31: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 18:50:22: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 18:50:22: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 18:50:22: [SM] Call stack trace:
+L 08/20/2022 - 18:50:22: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 18:50:22: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 18:54:32: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 18:54:32: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 18:54:32: [SM] Call stack trace:
+L 08/20/2022 - 18:54:32: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 18:54:32: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 18:54:32: [SM] Exception reported: Client index -1 is invalid
+L 08/20/2022 - 18:54:32: [SM] Blaming: l4d2_lastboss.smx
+L 08/20/2022 - 18:54:32: [SM] Call stack trace:
+L 08/20/2022 - 18:54:32: [SM]   [0] GetClientAbsOrigin
+L 08/20/2022 - 18:54:32: [SM]   [1] Line 360, /home/groups/alliedmodders/forums/files/7/2/3/6/1/67650.attach::Event_Player_Death
+L 08/20/2022 - 19:05:07: Error log file session closed.
+L 08/20/2022 - 19:05:07: SourceMod error session started
+L 08/20/2022 - 19:05:07: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:05:07: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:05:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:05:07: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:05:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:05:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:05:07: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:06:59: Error log file session closed.
+L 08/20/2022 - 19:06:59: SourceMod error session started
+L 08/20/2022 - 19:06:59: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:06:59: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:06:59: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:06:59: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:06:59: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:06:59: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:06:59: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:07:05: Error log file session closed.
+L 08/20/2022 - 19:07:05: SourceMod error session started
+L 08/20/2022 - 19:07:05: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:07:05: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:07:05: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:07:05: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:07:05: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:07:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:07:05: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:13:48: Error log file session closed.
+L 08/20/2022 - 19:13:48: SourceMod error session started
+L 08/20/2022 - 19:13:48: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:13:48: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:13:48: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:13:48: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:13:48: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:13:48: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:13:48: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:19:30: Error log file session closed.
+L 08/20/2022 - 19:19:30: SourceMod error session started
+L 08/20/2022 - 19:19:30: Info (map "c11m2_offices") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:19:30: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:19:30: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:19:30: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:19:30: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:19:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:19:30: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:33:23: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:33:23: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:33:23: [SM] Call stack trace:
+L 08/20/2022 - 19:33:23: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:33:23: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:33:23: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:33:23: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:33:23: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:33:23: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:33:23: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:33:23: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:33:23: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:33:23: [SM] Call stack trace:
+L 08/20/2022 - 19:33:23: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:33:23: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:33:23: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:33:23: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:33:23: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:33:23: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:33:23: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:33:24: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:33:24: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:33:24: [SM] Call stack trace:
+L 08/20/2022 - 19:33:24: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:33:24: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:33:24: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:33:24: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:33:24: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:33:24: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:33:24: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:33:24: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:33:24: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:33:24: [SM] Call stack trace:
+L 08/20/2022 - 19:33:24: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:33:24: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:33:24: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:33:24: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:33:24: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:33:24: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:33:24: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:33:39: Error log file session closed.
+L 08/20/2022 - 19:33:39: SourceMod error session started
+L 08/20/2022 - 19:33:39: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:33:39: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:33:39: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:33:39: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:33:39: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:33:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:33:39: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:39:02: Error log file session closed.
+L 08/20/2022 - 19:39:02: SourceMod error session started
+L 08/20/2022 - 19:39:02: Info (map "c13m1_alpinecreek") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:39:02: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:39:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:39:02: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:39:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:39:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:39:02: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:46:22: Error log file session closed.
+L 08/20/2022 - 19:46:22: SourceMod error session started
+L 08/20/2022 - 19:46:22: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:46:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:46:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:46:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:46:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:46:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:46:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 19:49:00: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:49:00: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:49:00: [SM] Call stack trace:
+L 08/20/2022 - 19:49:00: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:49:00: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:49:00: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:49:00: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:49:00: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:49:00: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:49:00: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:49:01: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:49:01: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:49:01: [SM] Call stack trace:
+L 08/20/2022 - 19:49:01: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:49:01: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:49:01: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:49:01: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:49:01: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:49:01: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:49:01: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:49:01: [SM] Exception reported: Invalid edict (-1 - -1)
+L 08/20/2022 - 19:49:01: [SM] Blaming: l4d2_jockey_skeet.smx
+L 08/20/2022 - 19:49:01: [SM] Call stack trace:
+L 08/20/2022 - 19:49:01: [SM]   [0] GetEdictClassname
+L 08/20/2022 - 19:49:01: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 08/20/2022 - 19:49:01: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 08/20/2022 - 19:49:01: [SM]   [4] AcceptEntityInput
+L 08/20/2022 - 19:49:01: [SM]   [5] Line 1076, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::DealDamage
+L 08/20/2022 - 19:49:01: [SM]   [6] Line 961, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::FireBullet
+L 08/20/2022 - 19:49:01: [SM]   [7] Line 278, /home/groups/alliedmodders/forums/files/1/9/0/4/7/8/128699.attach::Timer_PetEngine
+L 08/20/2022 - 19:53:05: Error log file session closed.
+L 08/20/2022 - 19:53:05: SourceMod error session started
+L 08/20/2022 - 19:53:05: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 19:53:05: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 19:53:05: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:53:05: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 19:53:05: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 19:53:05: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 19:53:05: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:03:41: Error log file session closed.
+L 08/20/2022 - 20:03:41: SourceMod error session started
+L 08/20/2022 - 20:03:41: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:03:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:03:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:03:41: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:03:41: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:03:41: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:03:41: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:09:42: Error log file session closed.
+L 08/20/2022 - 20:09:42: SourceMod error session started
+L 08/20/2022 - 20:09:42: Info (map "c10m1_caves") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:09:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:09:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:09:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:09:42: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:09:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:09:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:21:13: Error log file session closed.
+L 08/20/2022 - 20:21:13: SourceMod error session started
+L 08/20/2022 - 20:21:13: Info (map "c10m2_drainage") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:21:13: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:21:13: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:21:13: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:21:13: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:21:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:21:13: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:39:02: Error log file session closed.
+L 08/20/2022 - 20:39:02: SourceMod error session started
+L 08/20/2022 - 20:39:02: Info (map "c10m3_ranchhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:39:02: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:39:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:39:02: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:39:02: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:39:02: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:39:02: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:46:07: Error log file session closed.
+L 08/20/2022 - 20:46:07: SourceMod error session started
+L 08/20/2022 - 20:46:07: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:46:07: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:46:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:46:07: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:46:07: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:46:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:46:07: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:49:36: Error log file session closed.
+L 08/20/2022 - 20:49:36: SourceMod error session started
+L 08/20/2022 - 20:49:36: Info (map "c11m2_offices") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:49:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:49:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:49:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:49:36: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:49:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:49:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 20:58:11: Error log file session closed.
+L 08/20/2022 - 20:58:11: SourceMod error session started
+L 08/20/2022 - 20:58:11: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 20:58:11: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 20:58:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:58:11: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 20:58:11: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 20:58:11: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 20:58:11: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:01:50: Error log file session closed.
+L 08/20/2022 - 21:01:50: SourceMod error session started
+L 08/20/2022 - 21:01:50: Info (map "c11m2_offices") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:01:50: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:01:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:01:50: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:01:50: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:01:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:01:50: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:03:22: Error log file session closed.
+L 08/20/2022 - 21:03:22: SourceMod error session started
+L 08/20/2022 - 21:03:22: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:03:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:03:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:03:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:03:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:03:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:03:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:07:49: Error log file session closed.
+L 08/20/2022 - 21:07:49: SourceMod error session started
+L 08/20/2022 - 21:07:49: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:07:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:07:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:07:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:07:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:07:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:07:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:10:26: Error log file session closed.
+L 08/20/2022 - 21:10:26: SourceMod error session started
+L 08/20/2022 - 21:10:26: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:10:26: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:10:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:10:26: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:10:26: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:10:26: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:10:26: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:23:22: Error log file session closed.
+L 08/20/2022 - 21:23:22: SourceMod error session started
+L 08/20/2022 - 21:23:22: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:23:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:23:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:23:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:23:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:23:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:23:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:25:16: Error log file session closed.
+L 08/20/2022 - 21:25:16: SourceMod error session started
+L 08/20/2022 - 21:25:16: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:25:16: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:25:16: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:25:16: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:25:16: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:25:16: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:25:16: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 21:26:14: Error log file session closed.
+L 08/20/2022 - 21:26:14: SourceMod error session started
+L 08/20/2022 - 21:26:14: Info (map "c5m2_park") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 21:26:14: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 21:26:14: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:26:14: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 21:26:14: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 21:26:14: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 21:26:14: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 22:01:12: Error log file session closed.
+L 08/20/2022 - 22:01:12: SourceMod error session started
+L 08/20/2022 - 22:01:12: Info (map "c5m2_park") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 22:01:12: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 22:01:12: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:01:12: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 22:01:12: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:01:12: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 22:01:12: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 22:01:18: Error log file session closed.
+L 08/20/2022 - 22:01:18: SourceMod error session started
+L 08/20/2022 - 22:01:18: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 22:01:18: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 22:01:18: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:01:18: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 22:01:18: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:01:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 22:01:18: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 08/20/2022 - 22:02:51: Error log file session closed.
+L 08/20/2022 - 22:02:51: SourceMod error session started
+L 08/20/2022 - 22:02:51: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220820.log")
+L 08/20/2022 - 22:02:51: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 08/20/2022 - 22:02:51: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:02:51: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 08/20/2022 - 22:02:51: [SM] Error (line 0, column 0): Stream failed to open
+L 08/20/2022 - 22:02:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 08/20/2022 - 22:02:51: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)

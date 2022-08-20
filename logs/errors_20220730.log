@@ -1,0 +1,1057 @@
+L 07/30/2022 - 18:13:41: SourceMod error session started
+L 07/30/2022 - 18:13:41: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:13:41: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 18:13:41: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 18:13:41: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:13:41: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:13:41: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:13:41: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:13:41: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:13:42: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:13:42: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 18:13:42: [SM] Call stack trace:
+L 07/30/2022 - 18:13:42: [SM]   [0] SetFailState
+L 07/30/2022 - 18:13:42: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:13:42: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:13:42: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 18:13:42: [SM] Call stack trace:
+L 07/30/2022 - 18:13:42: [SM]   [0] SetFailState
+L 07/30/2022 - 18:13:42: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:13:42: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:13:42: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 18:13:42: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:13:42: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 18:13:42: [SM] Call stack trace:
+L 07/30/2022 - 18:13:42: [SM]   [0] SetFailState
+L 07/30/2022 - 18:13:42: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:13:42: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:13:42: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:13:42: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:15:31: Error log file session closed.
+L 07/30/2022 - 18:15:31: SourceMod error session started
+L 07/30/2022 - 18:15:31: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:15:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:15:31: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:15:31: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:15:31: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:15:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:15:31: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:17:38: Error log file session closed.
+L 07/30/2022 - 18:17:38: SourceMod error session started
+L 07/30/2022 - 18:17:38: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:17:38: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:17:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:17:38: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:17:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:17:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:17:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:21:53: Error log file session closed.
+L 07/30/2022 - 18:21:53: SourceMod error session started
+L 07/30/2022 - 18:21:53: Info (map "c14m1_junkyard") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:21:53: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:21:53: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:21:53: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:21:53: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:21:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:21:53: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:24:49: SourceMod error session started
+L 07/30/2022 - 18:24:49: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:24:49: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 18:24:49: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:24:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:24:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:24:49: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:24:49: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 18:24:49: [SM] Call stack trace:
+L 07/30/2022 - 18:24:49: [SM]   [0] SetFailState
+L 07/30/2022 - 18:24:49: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:24:49: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:24:49: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 18:24:49: [SM] Call stack trace:
+L 07/30/2022 - 18:24:49: [SM]   [0] SetFailState
+L 07/30/2022 - 18:24:49: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:24:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:24:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 18:24:49: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:24:49: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 18:24:49: [SM] Call stack trace:
+L 07/30/2022 - 18:24:49: [SM]   [0] SetFailState
+L 07/30/2022 - 18:24:49: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:24:49: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:24:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:24:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:25:07: Error log file session closed.
+L 07/30/2022 - 18:25:07: SourceMod error session started
+L 07/30/2022 - 18:25:07: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:25:07: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:25:07: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:25:07: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:25:07: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:25:07: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:25:07: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:37:36: Error log file session closed.
+L 07/30/2022 - 18:37:36: SourceMod error session started
+L 07/30/2022 - 18:37:36: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:37:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:37:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:37:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:37:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:37:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:37:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:38:08: SourceMod error session started
+L 07/30/2022 - 18:38:08: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:38:08: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 18:38:08: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 18:38:08: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:38:08: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:38:08: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 18:38:08: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:38:08: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:38:09: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:38:09: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 18:38:09: [SM] Call stack trace:
+L 07/30/2022 - 18:38:09: [SM]   [0] SetFailState
+L 07/30/2022 - 18:38:09: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:38:09: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:38:09: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 18:38:09: [SM] Call stack trace:
+L 07/30/2022 - 18:38:09: [SM]   [0] SetFailState
+L 07/30/2022 - 18:38:09: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:38:09: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:38:09: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 18:38:09: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 18:38:09: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 18:38:09: [SM] Call stack trace:
+L 07/30/2022 - 18:38:09: [SM]   [0] SetFailState
+L 07/30/2022 - 18:38:09: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:38:09: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 18:38:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:38:09: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:38:37: Error log file session closed.
+L 07/30/2022 - 18:38:37: SourceMod error session started
+L 07/30/2022 - 18:38:37: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:38:37: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:38:37: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:38:37: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:38:37: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:38:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:38:37: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:48:13: Error log file session closed.
+L 07/30/2022 - 18:48:13: SourceMod error session started
+L 07/30/2022 - 18:48:13: Info (map "c2m2_fairgrounds") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:48:13: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:48:13: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:48:13: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:48:13: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:48:13: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:48:13: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 18:56:17: Error log file session closed.
+L 07/30/2022 - 18:56:17: SourceMod error session started
+L 07/30/2022 - 18:56:17: Info (map "c2m3_coaster") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 18:56:17: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 18:56:17: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:56:17: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 18:56:17: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 18:56:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 18:56:17: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:01:57: Error log file session closed.
+L 07/30/2022 - 19:01:57: SourceMod error session started
+L 07/30/2022 - 19:01:57: Info (map "c2m4_barns") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:01:57: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:01:57: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:01:57: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:01:57: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:01:57: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:01:57: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:08:38: Error log file session closed.
+L 07/30/2022 - 19:08:38: SourceMod error session started
+L 07/30/2022 - 19:08:38: Info (map "c2m5_concert") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:08:38: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:08:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:08:38: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:08:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:08:38: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:08:38: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:10:03: Error log file session closed.
+L 07/30/2022 - 19:10:03: SourceMod error session started
+L 07/30/2022 - 19:10:03: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:10:03: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:10:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:10:03: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:10:03: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:10:03: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:10:03: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:30:18: Error log file session closed.
+L 07/30/2022 - 19:30:18: SourceMod error session started
+L 07/30/2022 - 19:30:18: Info (map "c1m2_streets") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:30:18: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:30:18: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:30:18: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:30:18: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:30:18: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:30:18: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:31:31: Error log file session closed.
+L 07/30/2022 - 19:31:31: SourceMod error session started
+L 07/30/2022 - 19:31:31: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:31:31: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:31:31: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:31:31: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:31:31: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:31:31: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:31:31: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:31:49: Error log file session closed.
+L 07/30/2022 - 19:31:49: SourceMod error session started
+L 07/30/2022 - 19:31:49: Info (map "c1m2_streets") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:31:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:31:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:31:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:31:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:31:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:31:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:37:35: Error log file session closed.
+L 07/30/2022 - 19:37:35: SourceMod error session started
+L 07/30/2022 - 19:37:35: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:37:35: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:37:35: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:37:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:37:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:37:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:37:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:42:04: Error log file session closed.
+L 07/30/2022 - 19:42:04: SourceMod error session started
+L 07/30/2022 - 19:42:04: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:42:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:42:04: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:42:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:42:04: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:42:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:42:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:42:36: SourceMod error session started
+L 07/30/2022 - 19:42:36: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:42:36: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 19:42:36: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 19:42:36: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:42:36: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:42:36: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:42:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:42:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:42:36: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:42:36: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 19:42:36: [SM] Call stack trace:
+L 07/30/2022 - 19:42:36: [SM]   [0] SetFailState
+L 07/30/2022 - 19:42:36: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 19:42:36: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:42:38: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:42:38: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 19:42:38: [SM] Call stack trace:
+L 07/30/2022 - 19:42:38: [SM]   [0] SetFailState
+L 07/30/2022 - 19:42:38: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 19:42:38: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:42:39: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:42:39: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:42:39: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 19:42:39: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:42:39: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 19:42:39: [SM] Call stack trace:
+L 07/30/2022 - 19:42:39: [SM]   [0] SetFailState
+L 07/30/2022 - 19:42:39: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 19:42:39: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:42:39: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 19:42:39: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 19:42:39: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:42:39: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:49:36: SourceMod error session started
+L 07/30/2022 - 19:49:36: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:49:36: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 19:49:36: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 19:49:36: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:49:36: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:49:36: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 19:49:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:49:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:49:36: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:49:36: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 19:49:36: [SM] Call stack trace:
+L 07/30/2022 - 19:49:36: [SM]   [0] SetFailState
+L 07/30/2022 - 19:49:36: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 19:49:36: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:49:37: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:49:37: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 19:49:37: [SM] Call stack trace:
+L 07/30/2022 - 19:49:37: [SM]   [0] SetFailState
+L 07/30/2022 - 19:49:37: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 19:49:37: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:49:37: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:49:37: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:49:37: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 19:49:37: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 19:49:37: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 19:49:37: [SM] Call stack trace:
+L 07/30/2022 - 19:49:37: [SM]   [0] SetFailState
+L 07/30/2022 - 19:49:37: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 19:49:37: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 19:49:37: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 19:49:37: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 19:49:37: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:49:37: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 19:50:43: Error log file session closed.
+L 07/30/2022 - 19:50:43: SourceMod error session started
+L 07/30/2022 - 19:50:43: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 19:50:43: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 19:50:43: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:50:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 19:50:43: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 19:50:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 19:50:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:15:06: Error log file session closed.
+L 07/30/2022 - 20:15:06: SourceMod error session started
+L 07/30/2022 - 20:15:06: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:15:06: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:15:06: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:15:06: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:15:06: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:15:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:15:06: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:18:52: Error log file session closed.
+L 07/30/2022 - 20:18:52: SourceMod error session started
+L 07/30/2022 - 20:18:52: Info (map "c11m1_greenhouse") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:18:52: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:18:52: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:18:52: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:18:52: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:18:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:18:52: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:25:52: Error log file session closed.
+L 07/30/2022 - 20:25:52: SourceMod error session started
+L 07/30/2022 - 20:25:52: Info (map "c11m2_offices") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:25:52: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:25:52: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:25:52: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:25:52: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:25:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:25:52: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:26:24: SourceMod error session started
+L 07/30/2022 - 20:26:24: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:26:24: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 20:26:24: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 20:26:24: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:26:24: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:26:24: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:26:25: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:26:25: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:26:25: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:26:25: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 20:26:25: [SM] Call stack trace:
+L 07/30/2022 - 20:26:25: [SM]   [0] SetFailState
+L 07/30/2022 - 20:26:25: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:26:25: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:26:25: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 20:26:25: [SM] Call stack trace:
+L 07/30/2022 - 20:26:25: [SM]   [0] SetFailState
+L 07/30/2022 - 20:26:25: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:26:25: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:26:25: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 20:26:25: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:26:25: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 20:26:25: [SM] Call stack trace:
+L 07/30/2022 - 20:26:25: [SM]   [0] SetFailState
+L 07/30/2022 - 20:26:25: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:26:25: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:26:25: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:26:25: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:33:36: Error log file session closed.
+L 07/30/2022 - 20:33:36: SourceMod error session started
+L 07/30/2022 - 20:33:36: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:33:36: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:33:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:33:36: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:33:36: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:33:36: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:33:36: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:44:43: Error log file session closed.
+L 07/30/2022 - 20:44:43: SourceMod error session started
+L 07/30/2022 - 20:44:43: Info (map "c1m2_streets") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:44:43: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:44:43: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:44:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:44:43: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:44:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:44:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:54:49: Error log file session closed.
+L 07/30/2022 - 20:54:49: SourceMod error session started
+L 07/30/2022 - 20:54:49: Info (map "c1m3_mall") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:54:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:54:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:54:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:54:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:54:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:54:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:55:21: SourceMod error session started
+L 07/30/2022 - 20:55:21: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:55:21: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 20:55:21: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 20:55:21: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:55:21: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:55:21: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:55:21: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:55:21: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:55:21: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:55:21: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 20:55:21: [SM] Call stack trace:
+L 07/30/2022 - 20:55:21: [SM]   [0] SetFailState
+L 07/30/2022 - 20:55:21: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 20:55:21: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:55:22: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:55:22: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 20:55:22: [SM] Call stack trace:
+L 07/30/2022 - 20:55:22: [SM]   [0] SetFailState
+L 07/30/2022 - 20:55:22: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 20:55:22: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:55:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:55:22: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:55:22: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 20:55:22: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:55:22: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 20:55:22: [SM] Call stack trace:
+L 07/30/2022 - 20:55:22: [SM]   [0] SetFailState
+L 07/30/2022 - 20:55:22: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 20:55:22: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:55:22: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:55:22: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:55:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:55:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:56:12: Error log file session closed.
+L 07/30/2022 - 20:56:12: SourceMod error session started
+L 07/30/2022 - 20:56:12: Info (map "c4m1_milltown_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:56:12: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:56:12: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:56:12: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:56:12: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:56:12: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:56:12: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 20:56:51: SourceMod error session started
+L 07/30/2022 - 20:56:51: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 20:56:51: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 20:56:51: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 20:56:51: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:56:51: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:56:51: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 20:56:51: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 20:56:51: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:56:51: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:56:51: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 20:56:51: [SM] Call stack trace:
+L 07/30/2022 - 20:56:51: [SM]   [0] SetFailState
+L 07/30/2022 - 20:56:51: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 20:56:51: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:56:52: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:56:52: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 20:56:52: [SM] Call stack trace:
+L 07/30/2022 - 20:56:52: [SM]   [0] SetFailState
+L 07/30/2022 - 20:56:52: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 20:56:52: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:56:52: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 20:56:52: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 20:56:52: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 20:56:52: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 20:56:52: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 20:56:52: [SM] Call stack trace:
+L 07/30/2022 - 20:56:52: [SM]   [0] SetFailState
+L 07/30/2022 - 20:56:52: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 20:56:52: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 20:56:52: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:56:52: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 20:56:52: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 20:56:52: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:03:09: Error log file session closed.
+L 07/30/2022 - 21:03:10: SourceMod error session started
+L 07/30/2022 - 21:03:10: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:03:10: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:03:10: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:03:10: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:03:10: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:03:10: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:03:10: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:03:42: SourceMod error session started
+L 07/30/2022 - 21:03:42: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:03:42: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 21:03:42: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 21:03:42: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:03:42: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:03:42: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:03:42: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:03:42: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:03:43: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:03:43: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 21:03:43: [SM] Call stack trace:
+L 07/30/2022 - 21:03:43: [SM]   [0] SetFailState
+L 07/30/2022 - 21:03:43: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:03:43: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:03:43: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 21:03:43: [SM] Call stack trace:
+L 07/30/2022 - 21:03:43: [SM]   [0] SetFailState
+L 07/30/2022 - 21:03:43: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:03:43: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:03:43: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 21:03:43: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:03:43: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 21:03:43: [SM] Call stack trace:
+L 07/30/2022 - 21:03:43: [SM]   [0] SetFailState
+L 07/30/2022 - 21:03:43: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 21:03:43: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 21:03:43: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:03:43: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:13:09: Error log file session closed.
+L 07/30/2022 - 21:13:09: SourceMod error session started
+L 07/30/2022 - 21:13:09: Info (map "c5m1_waterfront") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:13:09: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:13:09: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:13:09: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:13:09: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:13:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:13:09: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:13:45: SourceMod error session started
+L 07/30/2022 - 21:13:45: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:13:45: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 21:13:45: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 21:13:45: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:13:45: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:13:45: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 21:13:45: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:13:45: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:13:45: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:13:45: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 21:13:45: [SM] Call stack trace:
+L 07/30/2022 - 21:13:45: [SM]   [0] SetFailState
+L 07/30/2022 - 21:13:45: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 21:13:45: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:13:46: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:13:46: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 21:13:46: [SM] Call stack trace:
+L 07/30/2022 - 21:13:46: [SM]   [0] SetFailState
+L 07/30/2022 - 21:13:46: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 21:13:46: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:13:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:13:46: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:13:46: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 21:13:46: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 21:13:46: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 21:13:46: [SM] Call stack trace:
+L 07/30/2022 - 21:13:46: [SM]   [0] SetFailState
+L 07/30/2022 - 21:13:46: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 21:13:46: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 21:13:46: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 21:13:46: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 21:13:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:13:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:14:30: Error log file session closed.
+L 07/30/2022 - 21:14:30: SourceMod error session started
+L 07/30/2022 - 21:14:30: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:14:30: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:14:30: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:14:30: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:14:30: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:14:30: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:14:30: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:21:22: Error log file session closed.
+L 07/30/2022 - 21:21:22: SourceMod error session started
+L 07/30/2022 - 21:21:22: Info (map "c8m2_subway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:21:22: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:21:22: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:21:22: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:21:22: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:21:23: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:21:23: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:24:51: Error log file session closed.
+L 07/30/2022 - 21:24:51: SourceMod error session started
+L 07/30/2022 - 21:24:51: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:24:51: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:24:51: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:24:51: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:24:51: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:24:51: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:24:51: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:25:27: Error log file session closed.
+L 07/30/2022 - 21:25:27: SourceMod error session started
+L 07/30/2022 - 21:25:27: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:25:27: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:25:27: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:25:27: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:25:27: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:25:27: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:25:27: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:37:19: Error log file session closed.
+L 07/30/2022 - 21:37:19: SourceMod error session started
+L 07/30/2022 - 21:37:19: Info (map "c4m1_milltown_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:37:19: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:37:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:37:19: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:37:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:37:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:37:19: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 21:40:17: Error log file session closed.
+L 07/30/2022 - 21:40:17: SourceMod error session started
+L 07/30/2022 - 21:40:17: Info (map "c4m2_sugarmill_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 21:40:17: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 21:40:17: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:40:17: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 21:40:17: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 21:40:17: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 21:40:17: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:06:09: Error log file session closed.
+L 07/30/2022 - 22:06:09: SourceMod error session started
+L 07/30/2022 - 22:06:09: Info (map "c4m1_milltown_a") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:06:09: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:06:09: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:06:09: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:06:09: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:06:09: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:06:09: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:06:53: Error log file session closed.
+L 07/30/2022 - 22:06:53: SourceMod error session started
+L 07/30/2022 - 22:06:53: Info (map "c12m1_hilltop") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:06:53: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:06:53: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:06:53: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:06:53: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:06:53: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:06:53: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:11:32: Error log file session closed.
+L 07/30/2022 - 22:11:32: SourceMod error session started
+L 07/30/2022 - 22:11:32: Info (map "c12m1_hilltop") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:11:32: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:11:32: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:11:32: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:11:32: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:11:32: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:11:32: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:15:19: Error log file session closed.
+L 07/30/2022 - 22:15:19: SourceMod error session started
+L 07/30/2022 - 22:15:19: Info (map "c9m1_alleys") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:15:19: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:15:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:15:19: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:15:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:15:19: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:15:19: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:19:34: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:19:34: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:19:34: [SM] Call stack trace:
+L 07/30/2022 - 22:19:34: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:19:34: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:19:34: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:19:34: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:19:34: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:19:34: [SM] Call stack trace:
+L 07/30/2022 - 22:19:34: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:19:34: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:19:34: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:20:51: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:20:51: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:20:51: [SM] Call stack trace:
+L 07/30/2022 - 22:20:51: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:20:51: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:20:51: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:20:51: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:20:51: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:20:51: [SM] Call stack trace:
+L 07/30/2022 - 22:20:51: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:20:51: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:20:51: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:20:55: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:20:55: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:20:55: [SM] Call stack trace:
+L 07/30/2022 - 22:20:55: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:20:55: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:20:55: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:20:55: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:20:55: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:20:55: [SM] Call stack trace:
+L 07/30/2022 - 22:20:55: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:20:55: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:20:55: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:25:56: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:25:56: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:25:56: [SM] Call stack trace:
+L 07/30/2022 - 22:25:56: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:25:56: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:25:56: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:25:56: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:25:56: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:25:56: [SM] Call stack trace:
+L 07/30/2022 - 22:25:56: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:25:56: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:25:56: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:25:56: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:25:56: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:25:56: [SM] Call stack trace:
+L 07/30/2022 - 22:25:56: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:25:56: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:25:56: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:25:56: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 22:25:56: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 22:25:56: [SM] Call stack trace:
+L 07/30/2022 - 22:25:56: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 22:25:56: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 22:25:56: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 22:35:28: Error log file session closed.
+L 07/30/2022 - 22:35:28: SourceMod error session started
+L 07/30/2022 - 22:35:28: Info (map "c9m1_alleys") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:35:28: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:35:28: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:35:28: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:35:28: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:35:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:35:28: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:45:46: Error log file session closed.
+L 07/30/2022 - 22:45:46: SourceMod error session started
+L 07/30/2022 - 22:45:46: Info (map "c1m1_hotel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:45:46: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:45:46: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:45:46: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:45:46: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:45:46: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:45:46: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:46:20: SourceMod error session started
+L 07/30/2022 - 22:46:20: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:46:20: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 22:46:20: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:46:21: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:46:21: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:46:21: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:46:21: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 22:46:21: [SM] Call stack trace:
+L 07/30/2022 - 22:46:21: [SM]   [0] SetFailState
+L 07/30/2022 - 22:46:21: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:46:21: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:46:21: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 22:46:21: [SM] Call stack trace:
+L 07/30/2022 - 22:46:21: [SM]   [0] SetFailState
+L 07/30/2022 - 22:46:21: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:46:21: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:46:21: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 22:46:21: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:46:21: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 22:46:21: [SM] Call stack trace:
+L 07/30/2022 - 22:46:21: [SM]   [0] SetFailState
+L 07/30/2022 - 22:46:21: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 22:46:21: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:46:22: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 22:46:22: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 22:46:22: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:46:22: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:46:58: Error log file session closed.
+L 07/30/2022 - 22:46:58: SourceMod error session started
+L 07/30/2022 - 22:46:58: Info (map "c2m1_highway") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:46:58: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:46:58: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:46:58: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:46:58: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:46:58: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:46:58: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:47:32: SourceMod error session started
+L 07/30/2022 - 22:47:32: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:47:32: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 07/30/2022 - 22:47:32: [SM] Unable to load extension "builtinvotes.ext": /home/louis/l4d2/left4dead2/addons/sourcemod/extensions/builtinvotes.ext.so: cannot open shared object file: No such file or directory
+L 07/30/2022 - 22:47:32: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:47:32: [SM] Unable to load plugin "tank_and_witch_flow.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:47:32: [SM] Unable to load plugin "[L4D2] Forceset.smx": Could not find required plugin "left4dhooks"
+L 07/30/2022 - 22:47:32: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:47:32: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:47:32: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_zoey_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:47:32: [SM] Blaming: l4d2_zoey_unlock.smx
+L 07/30/2022 - 22:47:32: [SM] Call stack trace:
+L 07/30/2022 - 22:47:32: [SM]   [0] SetFailState
+L 07/30/2022 - 22:47:32: [SM]   [1] Line 71, /home/forums/content/files/8/5/7/7/8/170218.attach::OnPluginStart
+L 07/30/2022 - 22:47:32: [SM] Unable to load plugin "l4d2_zoey_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:47:32: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_knife_unlock.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:47:32: [SM] Blaming: l4d2_knife_unlock.smx
+L 07/30/2022 - 22:47:32: [SM] Call stack trace:
+L 07/30/2022 - 22:47:32: [SM]   [0] SetFailState
+L 07/30/2022 - 22:47:32: [SM]   [1] Line 70, /home/forums/content/files/8/5/7/7/8/103643.attach::OnPluginStart
+L 07/30/2022 - 22:47:32: [SM] Unable to load plugin "l4d2_knife_unlock.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:47:33: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:47:33: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:47:33: [SM] Unable to load plugin "l4d_anomaly.smx": Native "L4D_GetRandomPZSpawnPosition" was not found
+L 07/30/2022 - 22:47:33: [SM] Exception reported: 
+==========
+Missing required file: "addons/sourcemod/gamedata/l4d2_vomitjar_shove.txt".
+Read installation instructions again.
+==========
+L 07/30/2022 - 22:47:33: [SM] Blaming: l4d2_vomitjar_shove.smx
+L 07/30/2022 - 22:47:33: [SM] Call stack trace:
+L 07/30/2022 - 22:47:33: [SM]   [0] SetFailState
+L 07/30/2022 - 22:47:33: [SM]   [1] Line 104, /home/forums/content/files/8/5/7/7/8/168985.attach::OnPluginStart
+L 07/30/2022 - 22:47:33: [SM] Unable to load plugin "l4d2_vomitjar_shove.smx": Error detected in plugin startup (see error logs)
+L 07/30/2022 - 22:47:33: [SM] Unable to load plugin "l4d_boss_percent.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 22:47:33: [SM] Unable to load plugin "l4d2_setscores.smx": Required extension "BuiltinVotes" file("builtinvotes.ext") not running
+L 07/30/2022 - 22:47:33: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:47:33: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:49:07: Error log file session closed.
+L 07/30/2022 - 22:49:07: SourceMod error session started
+L 07/30/2022 - 22:49:07: Info (map "c8m1_apartment") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:49:07: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:49:07: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:49:08: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:49:08: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:49:08: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:49:08: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 22:57:04: Error log file session closed.
+L 07/30/2022 - 22:57:04: SourceMod error session started
+L 07/30/2022 - 22:57:04: Info (map "c3m1_plankcountry") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 22:57:04: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 22:57:04: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:57:04: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 22:57:04: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 22:57:04: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 22:57:04: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 23:07:27: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 23:07:27: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 23:07:27: [SM] Call stack trace:
+L 07/30/2022 - 23:07:27: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 23:07:27: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 23:07:27: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 23:07:29: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 23:07:29: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 23:07:29: [SM] Call stack trace:
+L 07/30/2022 - 23:07:29: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 23:07:29: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 23:07:29: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 23:07:30: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 23:07:30: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 23:07:30: [SM] Call stack trace:
+L 07/30/2022 - 23:07:30: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 23:07:30: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 23:07:30: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 23:07:30: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 23:07:30: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 23:07:30: [SM] Call stack trace:
+L 07/30/2022 - 23:07:30: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 23:07:30: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 23:07:30: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 23:07:30: [SM] Exception reported: Invalid edict (-1 - -1)
+L 07/30/2022 - 23:07:30: [SM] Blaming: l4d2_jockey_skeet.smx
+L 07/30/2022 - 23:07:30: [SM] Call stack trace:
+L 07/30/2022 - 23:07:30: [SM]   [0] GetEdictClassname
+L 07/30/2022 - 23:07:30: [SM]   [1] Line 141, plugin/EUplugins/march/l4d2_jockey_skeet.sp::IsShotgun
+L 07/30/2022 - 23:07:30: [SM]   [2] Line 73, plugin/EUplugins/march/l4d2_jockey_skeet.sp::OnTakeDamage
+L 07/30/2022 - 23:13:49: Error log file session closed.
+L 07/30/2022 - 23:13:49: SourceMod error session started
+L 07/30/2022 - 23:13:49: Info (map "c7m1_docks") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 23:13:49: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 23:13:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:13:49: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 23:13:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:13:49: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 23:13:49: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 23:20:28: Error log file session closed.
+L 07/30/2022 - 23:20:28: SourceMod error session started
+L 07/30/2022 - 23:20:28: Info (map "c12m1_hilltop") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 23:20:28: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 23:20:28: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:20:28: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 23:20:28: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:20:28: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 23:20:28: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 23:25:56: Error log file session closed.
+L 07/30/2022 - 23:25:56: SourceMod error session started
+L 07/30/2022 - 23:25:56: Info (map "c12m2_traintunnel") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 23:25:56: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 23:25:56: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:25:56: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 23:25:56: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:25:56: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 23:25:56: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 23:30:06: Error log file session closed.
+L 07/30/2022 - 23:30:06: SourceMod error session started
+L 07/30/2022 - 23:30:06: Info (map "c12m3_bridge") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 23:30:06: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 23:30:06: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:30:06: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 23:30:06: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:30:06: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 23:30:06: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/30/2022 - 23:36:50: Error log file session closed.
+L 07/30/2022 - 23:36:50: SourceMod error session started
+L 07/30/2022 - 23:36:50: Info (map "c12m4_barn") (file "/home/louis/l4d2/left4dead2/addons/sourcemod/logs/errors_20220730.log")
+L 07/30/2022 - 23:36:50: [SM] Fatal error encountered parsing translation file "chargersteering.phrases.txt"
+L 07/30/2022 - 23:36:50: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:36:50: [SM] Fatal error encountered parsing translation file "charger_power.phrases.txt"
+L 07/30/2022 - 23:36:50: [SM] Error (line 0, column 0): Stream failed to open
+L 07/30/2022 - 23:36:50: [admin-flatfile.smx] Error(s) detected parsing addons/sourcemod/configs/admins_simple.ini
+L 07/30/2022 - 23:36:50: [admin-flatfile.smx]  (line 9) Failed to bind identity  (method name)
+L 07/31/2022 - 00:00:00: Error log file session closed.
